@@ -1,0 +1,675 @@
+[
+  {
+    "id": 1,
+    "name": "Easy: Strength, no injury, 4 days, intermediate, full gym",
+    "profile": {
+      "goal": "strength",
+      "mode": "gym_only",
+      "days_per_week": 4,
+      "session_minutes": 60,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "injuries": []
+    }
+  },
+  {
+    "id": 2,
+    "name": "Easy: Hypertrophy, no injury, 3 days, beginner, full gym",
+    "profile": {
+      "goal": "hypertrophy",
+      "mode": "gym_only",
+      "days_per_week": 3,
+      "session_minutes": 60,
+      "experience": "beginner",
+      "equipment": "full_gym",
+      "injuries": []
+    }
+  },
+  {
+    "id": 3,
+    "name": "Easy: Speed, no injury, 4 days, intermediate, full gym",
+    "profile": {
+      "goal": "speed",
+      "mode": "gym_only",
+      "days_per_week": 4,
+      "session_minutes": 75,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "injuries": []
+    }
+  },
+  {
+    "id": 4,
+    "name": "Easy: Conditioning, no injury, 3 days, beginner, basic gym",
+    "profile": {
+      "goal": "conditioning",
+      "mode": "gym_only",
+      "days_per_week": 3,
+      "session_minutes": 45,
+      "experience": "beginner",
+      "equipment": "basic_gym",
+      "injuries": []
+    }
+  },
+  {
+    "id": 5,
+    "name": "Moderate: Strength + shoulder RC Phase 1, 4 days, intermediate, full gym (Both)",
+    "profile": {
+      "goal": "strength",
+      "mode": "both",
+      "days_per_week": 4,
+      "session_minutes": 60,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "priority_slider": "40/60",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "shoulder_cuff",
+          "severity": "moderate",
+          "timeline": "2-3 months ago",
+          "pain_level": 4,
+          "functional_level": "Mild limitation",
+          "clinician_restrictions": "None",
+          "region": "shoulder"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Moderate: Hypertrophy + MCL Grade 1 Phase 1, 4 days, intermediate, full gym (Both)",
+    "profile": {
+      "goal": "hypertrophy",
+      "mode": "both",
+      "days_per_week": 4,
+      "session_minutes": 60,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "priority_slider": "50/50",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "mcl_sprain",
+          "severity": "Grade 1",
+          "timeline": "2-4 weeks ago",
+          "pain_level": 3,
+          "functional_level": "Mild limitation",
+          "clinician_restrictions": "None",
+          "region": "knee"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Moderate: Speed + ankle sprain Grade 2 Phase 1, 4 days, intermediate, full gym (Both)",
+    "profile": {
+      "goal": "speed",
+      "mode": "both",
+      "days_per_week": 4,
+      "session_minutes": 75,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "priority_slider": "40/60",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "ankle_lateral",
+          "severity": "Grade 2",
+          "timeline": "1-2 weeks ago",
+          "pain_level": 5,
+          "functional_level": "Moderate limitation",
+          "clinician_restrictions": "None",
+          "region": "ankle"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Moderate: Conditioning + anterior knee pain, 3 days, beginner, basic gym (Both)",
+    "profile": {
+      "goal": "conditioning",
+      "mode": "both",
+      "days_per_week": 3,
+      "session_minutes": 45,
+      "experience": "beginner",
+      "equipment": "basic_gym",
+      "priority_slider": "50/50",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "anterior_knee_pain",
+          "severity": "moderate",
+          "timeline": "Ongoing / chronic",
+          "pain_level": 4,
+          "functional_level": "Mild limitation",
+          "clinician_restrictions": "None",
+          "region": "knee"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Moderate: Rehab Only + MCL Grade 2, 4 days, 45 min",
+    "profile": {
+      "goal": "strength",
+      "mode": "rehab_only",
+      "days_per_week": 4,
+      "session_minutes": 45,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "seeing_physio": "Yes — regularly",
+      "previous_rehab": "Yes — I was given exercises but stopped doing them",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "mcl_sprain",
+          "severity": "Grade 2",
+          "timeline": "2-4 weeks ago",
+          "pain_level": 5,
+          "functional_level": "Moderate limitation",
+          "clinician_restrictions": "None",
+          "region": "knee"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "name": "Moderate: Rehab Only + ankle sprain, 3 days, 30 min",
+    "profile": {
+      "goal": "general_fitness",
+      "mode": "rehab_only",
+      "days_per_week": 3,
+      "session_minutes": 30,
+      "experience": "beginner",
+      "equipment": "basic_gym",
+      "seeing_physio": "No — managing on my own",
+      "previous_rehab": "No — this is my first attempt at rehab",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "ankle_lateral",
+          "severity": "Grade 1",
+          "timeline": "2-4 weeks ago",
+          "pain_level": 3,
+          "functional_level": "Mild limitation",
+          "clinician_restrictions": "None",
+          "region": "ankle"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "name": "Hard: Speed + ACL post-op Phase 2, 4 days, intermediate (Both)",
+    "profile": {
+      "goal": "speed",
+      "mode": "both",
+      "days_per_week": 4,
+      "session_minutes": 75,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "priority_slider": "60/40",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "acl_postop",
+          "severity": "Hamstring autograft",
+          "timeline": "2-3 months ago",
+          "pain_level": 2,
+          "functional_level": "Moderate limitation",
+          "clinician_restrictions": "None",
+          "region": "knee"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "name": "Hard: Strength + MCL Grade 3 Phase 1, 2 days, 60 min, intermediate (Both)",
+    "profile": {
+      "goal": "strength",
+      "mode": "both",
+      "days_per_week": 2,
+      "session_minutes": 60,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "priority_slider": "50/50",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "mcl_sprain",
+          "severity": "Grade 3",
+          "timeline": "1-2 weeks ago",
+          "pain_level": 7,
+          "functional_level": "Significant limitation",
+          "clinician_restrictions": "None",
+          "region": "knee"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "name": "Hard: Hypertrophy + shoulder RC + ankle sprain (multi-injury), 4 days, full gym (Both)",
+    "profile": {
+      "goal": "hypertrophy",
+      "mode": "both",
+      "days_per_week": 4,
+      "session_minutes": 60,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "priority_slider": "50/50",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "shoulder_cuff",
+          "severity": "moderate",
+          "timeline": "1-2 months ago",
+          "pain_level": 4,
+          "functional_level": "Mild limitation",
+          "clinician_restrictions": "None",
+          "region": "shoulder"
+        },
+        {
+          "diagnosed": true,
+          "condition": "ankle_lateral",
+          "severity": "Grade 2",
+          "timeline": "2-4 weeks ago",
+          "pain_level": 4,
+          "functional_level": "Moderate limitation",
+          "clinician_restrictions": "None",
+          "region": "ankle"
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name": "Hard: Speed + ACL post-op Phase 1, 3 days, intermediate (Both) — expect can't serve speed",
+    "profile": {
+      "goal": "speed",
+      "mode": "both",
+      "days_per_week": 3,
+      "session_minutes": 60,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "priority_slider": "60/40",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "acl_postop",
+          "severity": "BTB autograft",
+          "timeline": "2-4 weeks ago",
+          "pain_level": 4,
+          "functional_level": "Significant limitation",
+          "clinician_restrictions": "None",
+          "region": "knee"
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "Hard: Rehab Only + ACL post-op Phase 2, 2 days, 30 min — frequency warning expected",
+    "profile": {
+      "goal": "speed",
+      "mode": "rehab_only",
+      "days_per_week": 2,
+      "session_minutes": 30,
+      "experience": "intermediate",
+      "equipment": "basic_gym",
+      "seeing_physio": "Yes — regularly",
+      "previous_rehab": "Yes — I've been doing exercises regularly",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "acl_postop",
+          "severity": "Hamstring autograft",
+          "timeline": "2-3 months ago",
+          "pain_level": 2,
+          "functional_level": "Moderate limitation",
+          "clinician_restrictions": "None",
+          "region": "knee"
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Edge: 3 injuries + 2 days + 45 min (Both) — expect recommend more days",
+    "profile": {
+      "goal": "general_fitness",
+      "mode": "both",
+      "days_per_week": 2,
+      "session_minutes": 45,
+      "experience": "beginner",
+      "equipment": "basic_gym",
+      "priority_slider": "50/50",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "shoulder_cuff",
+          "severity": "moderate",
+          "timeline": "1-2 months ago",
+          "pain_level": 4,
+          "functional_level": "Mild limitation",
+          "clinician_restrictions": "None",
+          "region": "shoulder"
+        },
+        {
+          "diagnosed": true,
+          "condition": "ankle_lateral",
+          "severity": "Grade 1",
+          "timeline": "2-4 weeks ago",
+          "pain_level": 3,
+          "functional_level": "Mild limitation",
+          "clinician_restrictions": "None",
+          "region": "ankle"
+        },
+        {
+          "diagnosed": true,
+          "condition": "mechanical_lbp_flexion",
+          "severity": "moderate",
+          "timeline": "Ongoing / chronic",
+          "pain_level": 5,
+          "functional_level": "Moderate limitation",
+          "clinician_restrictions": "None",
+          "region": "spine"
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "name": "Edge: Strength, no injury, 2 days, 30 min, beginner, minimal equipment",
+    "profile": {
+      "goal": "strength",
+      "mode": "gym_only",
+      "days_per_week": 2,
+      "session_minutes": 30,
+      "experience": "beginner",
+      "equipment": "minimal",
+      "injuries": []
+    }
+  },
+  {
+    "id": 18,
+    "name": "Edge: Speed + MCL Grade 2 Phase 1, 6 days, 90 min, advanced, full gym",
+    "profile": {
+      "goal": "speed",
+      "mode": "both",
+      "days_per_week": 6,
+      "session_minutes": 90,
+      "experience": "advanced",
+      "equipment": "full_gym",
+      "priority_slider": "40/60",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "mcl_sprain",
+          "severity": "Grade 2",
+          "timeline": "2-4 weeks ago",
+          "pain_level": 4,
+          "functional_level": "Moderate limitation",
+          "clinician_restrictions": "None",
+          "region": "knee"
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "name": "Edge: Rehab Only + undiagnosed knee pain (gradual, anterior, 3+ months)",
+    "profile": {
+      "goal": "general_fitness",
+      "mode": "rehab_only",
+      "days_per_week": 4,
+      "session_minutes": 30,
+      "experience": "beginner",
+      "equipment": "home_db_bands",
+      "seeing_physio": "No — managing on my own",
+      "previous_rehab": "No — this is my first attempt at rehab",
+      "injuries": [
+        {
+          "diagnosed": false,
+          "region": "knee",
+          "description": "Pain with specific movements or exercises",
+          "when_bothers": "During exercise only",
+          "duration": "More than 3 months",
+          "pain_level": 4,
+          "daily_impact": "Not at all",
+          "routed_protocol": "generic_load_management"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "name": "Edge: Rehab Only + tight hips (stiffness, no pain) — should route to mobility",
+    "profile": {
+      "goal": "general_fitness",
+      "mode": "rehab_only",
+      "days_per_week": 3,
+      "session_minutes": 20,
+      "experience": "beginner",
+      "equipment": "minimal",
+      "seeing_physio": "No — managing on my own",
+      "previous_rehab": "No — this is my first attempt at rehab",
+      "injuries": [
+        {
+          "diagnosed": false,
+          "region": "hip",
+          "description": "Stiffness or tightness (no real pain)",
+          "when_bothers": "First thing in the morning",
+          "duration": "More than 3 months",
+          "pain_level": 0,
+          "daily_impact": "Mildly",
+          "routed_protocol": "mobility_protocol"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "name": "Edge: Red flags (numbness + spine) — must NOT generate a plan",
+    "profile": {
+      "goal": "strength",
+      "mode": "both",
+      "days_per_week": 4,
+      "session_minutes": 60,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "red_flags": {
+        "numbness_tingling": true,
+        "weakness": true,
+        "bladder_bowel": false,
+        "chest_pain": false,
+        "weight_loss": false,
+        "fever": false,
+        "fall_collision": false,
+        "osteoporosis": false,
+        "cancer": false,
+        "infection": false,
+        "heart_condition": false
+      },
+      "injuries": [
+        {
+          "diagnosed": false,
+          "region": "spine",
+          "description": "Pain from a specific incident",
+          "when_bothers": "All the time",
+          "duration": "Less than 2 weeks",
+          "pain_level": 7,
+          "daily_impact": "Severely",
+          "routed_protocol": "red_flag_block"
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "name": "Edge: Clinician restriction 'no running 6 months' — must respect absolutely",
+    "profile": {
+      "goal": "speed",
+      "mode": "both",
+      "days_per_week": 4,
+      "session_minutes": 75,
+      "experience": "intermediate",
+      "equipment": "full_gym",
+      "priority_slider": "40/60",
+      "dedicated_rehab_days": "No",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "acl_postop",
+          "severity": "Hamstring autograft",
+          "timeline": "3-6 months ago",
+          "pain_level": 1,
+          "functional_level": "Mild limitation",
+          "clinician_restrictions": "No running for 6 months",
+          "region": "knee"
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "name": "Rehab Only — ACL post-op Phase 1",
+    "difficulty": "rehab",
+    "profile": {
+      "goal": "rehab_only",
+      "mode": "rehab_only",
+      "days_per_week": 4,
+      "session_minutes": 45,
+      "experience": "intermediate",
+      "equipment": "basic_gym",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "acl_post_op",
+          "region": "knee",
+          "severity": "post_surgical",
+          "timeline": "3 weeks",
+          "pain_level": 4,
+          "functional_level": "Cannot fully straighten or bend knee",
+          "clinician_restrictions": "No running, no open chain extension past 45 degrees"
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "name": "Rehab Only — Tight hips mobility",
+    "difficulty": "rehab",
+    "profile": {
+      "goal": "rehab_only",
+      "mode": "rehab_only",
+      "days_per_week": 3,
+      "session_minutes": 30,
+      "experience": "beginner",
+      "equipment": "minimal",
+      "injuries": [
+        {
+          "diagnosed": false,
+          "region": "hip",
+          "description": "Stiffness, no pain",
+          "when_bothers": "After sitting for long periods",
+          "duration": "3+ months",
+          "pain_level": 0,
+          "daily_impact": "Mild — can do everything but feels tight",
+          "routed_protocol": "mobility"
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "name": "Rehab Only — Shoulder RC high frequency",
+    "difficulty": "rehab",
+    "profile": {
+      "goal": "rehab_only",
+      "mode": "rehab_only",
+      "days_per_week": 5,
+      "session_minutes": 30,
+      "experience": "beginner",
+      "equipment": "minimal",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "shoulder_rotator_cuff",
+          "region": "shoulder",
+          "severity": "moderate",
+          "timeline": "6 weeks",
+          "pain_level": 5,
+          "functional_level": "Can't raise arm above shoulder without pain",
+          "clinician_restrictions": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "name": "Rehab Only — Patellar tendinopathy acute",
+    "difficulty": "rehab",
+    "profile": {
+      "goal": "rehab_only",
+      "mode": "rehab_only",
+      "days_per_week": 3,
+      "session_minutes": 45,
+      "experience": "intermediate",
+      "equipment": "basic_gym",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "patellar_tendinopathy",
+          "region": "knee",
+          "severity": "acute",
+          "timeline": "2 weeks",
+          "pain_level": 6,
+          "functional_level": "Pain going down stairs and after sport",
+          "clinician_restrictions": "No jumping"
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "name": "Rehab Only — Chronic mechanical LBP",
+    "difficulty": "rehab",
+    "profile": {
+      "goal": "rehab_only",
+      "mode": "rehab_only",
+      "days_per_week": 4,
+      "session_minutes": 45,
+      "experience": "beginner",
+      "equipment": "basic_gym",
+      "injuries": [
+        {
+          "diagnosed": true,
+          "condition": "mechanical_lbp_flexion",
+          "region": "spine",
+          "severity": "chronic",
+          "timeline": "4 months",
+          "pain_level": 5,
+          "functional_level": "Pain when bending forward or sitting too long",
+          "clinician_restrictions": "None"
+        }
+      ]
+    }
+  }
+]
