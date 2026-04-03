@@ -30,7 +30,7 @@ from chromadb.utils import embedding_functions
 _THIS_DIR = Path(__file__).resolve().parent
 _BACKEND_DIR = _THIS_DIR.parent
 _DATA_DIR = _BACKEND_DIR / "data"
-_PAPERS_DIR = _DATA_DIR / "papers"
+_PAPERS_DIR = _BACKEND_DIR.parent / "assets" / "pdf"
 _METADATA_PATH = _THIS_DIR / "paper_metadata.json"
 _CHROMA_DB_PATH = str(_THIS_DIR / "toasted_rag_db")
 
@@ -170,7 +170,7 @@ def ingest_papers(
     try:
         client.delete_collection(name=collection_name)
         print(f"[ingest] Cleared existing collection '{collection_name}'.")
-    except ValueError:
+    except (ValueError, Exception):
         pass  # collection did not exist yet
 
     collection = client.get_or_create_collection(

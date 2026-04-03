@@ -1,7 +1,7 @@
 [
   {
     "paper_id": 1,
-    "filename": "logerstedt_2017_acl_guideline.pdf",
+    "filename": "1_logerstedt_2017_acl_guideline.pdf.pdf",
     "title": "Knee Stability and Movement Coordination Impairments: Knee Ligament Sprain Revision 2017",
     "authors": [
       "Logerstedt D",
@@ -11,27 +11,43 @@
       "Godges J"
     ],
     "year": 2017,
-    "conditions": ["acl"],
-    "topics": ["rehab_protocol", "gate_criteria"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "gate_criteria"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "clinical_guideline",
     "priority": "high"
   },
   {
     "paper_id": 2,
-    "filename": "dingenen_2017_rts_acl.pdf",
+    "filename": "2_dingenen_2017_rts_acl.pdf.pdf",
     "title": "Return-to-Sport Criteria After Anterior Cruciate Ligament Reconstruction: A Systematic Review",
-    "authors": ["Dingenen B", "Gokeler A"],
+    "authors": [
+      "Dingenen B",
+      "Gokeler A"
+    ],
     "year": 2017,
-    "conditions": ["acl"],
-    "topics": ["return_to_sport"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "systematic_review",
     "priority": "high"
   },
   {
     "paper_id": 3,
-    "filename": "grindem_2016_reinjury_risk.pdf",
+    "filename": "3_grindem_2016_reinjury_risk.pdf.pdf",
     "title": "Simple Decision Rules Can Reduce Reinjury Risk by 84% After ACL Reconstruction",
     "authors": [
       "Grindem H",
@@ -41,27 +57,47 @@
       "Risberg MA"
     ],
     "year": 2016,
-    "conditions": ["acl"],
-    "topics": ["return_to_sport", "gate_criteria"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "return_to_sport",
+      "gate_criteria"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "high"
   },
   {
     "paper_id": 4,
-    "filename": "kyritsis_2016_six_criteria.pdf",
+    "filename": "4_kyritsis_2016_six_criteria.pdf",
     "title": "Likelihood of ACL Graft Rupture: Not Meeting Six Clinical Discharge Criteria Before Return to Sport",
-    "authors": ["Kyritsis P", "Bahr R", "Landreau P", "Miladi R", "Witvrouw E"],
+    "authors": [
+      "Kyritsis P",
+      "Bahr R",
+      "Landreau P",
+      "Miladi R",
+      "Witvrouw E"
+    ],
     "year": 2016,
-    "conditions": ["acl"],
-    "topics": ["gate_criteria", "return_to_sport"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "gate_criteria",
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 5,
-    "filename": "ardern_2014_consensus_rts.pdf",
+    "filename": "5_ardern_2014_consensus_rts.pdf",
     "title": "2016 Consensus Statement on Return to Sport from the First World Congress in Sports Physical Therapy",
     "authors": [
       "Ardern CL",
@@ -72,15 +108,21 @@
       "van Cingel R"
     ],
     "year": 2014,
-    "conditions": ["acl"],
-    "topics": ["return_to_sport"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "consensus_statement",
     "priority": "medium"
   },
   {
     "paper_id": 6,
-    "filename": "whitehead_2023_latrobe_acl.pdf",
+    "filename": "6_notsure_whitehead_2023_latrobe_acl.pdf",
     "title": "The La Trobe ACL Rehabilitation Guide: Clinical Milestones and Structured Return to Sport",
     "authors": [
       "Whitehead TS",
@@ -90,99 +132,174 @@
       "Webster KE"
     ],
     "year": 2023,
-    "conditions": ["acl"],
-    "topics": ["rehab_protocol", "gate_criteria"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "gate_criteria"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "clinical_guideline",
     "priority": "high"
   },
   {
     "paper_id": 7,
-    "filename": "filbay_2019_acl_management.pdf",
+    "filename": "7_filbay_2019_acl_management.pdf",
     "title": "Evidence-Based Recommendations for the Management of Anterior Cruciate Ligament Injury",
-    "authors": ["Filbay SR", "Grindem H"],
+    "authors": [
+      "Filbay SR",
+      "Grindem H"
+    ],
     "year": 2019,
-    "conditions": ["acl"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 8,
-    "filename": "palmieri_smith_2008_quad_strength_acl.pdf",
+    "filename": "8_palmieri_smith_2008_quad_strength_acl.pdf",
     "title": "Quadriceps Strength and Weight Acceptance Strategies Continue to Improve Two Years After ACL Reconstruction",
-    "authors": ["Palmieri-Smith RM", "Thomas AC"],
+    "authors": [
+      "Palmieri-Smith RM",
+      "Thomas AC"
+    ],
     "year": 2008,
-    "conditions": ["acl"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 9,
-    "filename": "eitzen_2009_preop_quad.pdf",
+    "filename": "9_eitzen_2009_preop_quad.pdf",
     "title": "Preoperative Quadriceps Strength Is a Significant Predictor of Knee Function Two Years After ACL Reconstruction",
-    "authors": ["Eitzen I", "Holm I", "Risberg MA"],
+    "authors": [
+      "Eitzen I",
+      "Holm I",
+      "Risberg MA"
+    ],
     "year": 2009,
-    "conditions": ["acl"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 10,
-    "filename": "lepley_2019_quad_atrophy_acl.pdf",
+    "filename": "10_lepley_2019_quad_atrophy_acl.pdf",
     "title": "Quadriceps Atrophy and Muscle Activation Failure After ACL Injury and Reconstruction",
-    "authors": ["Lepley LK", "Palmieri-Smith RM"],
+    "authors": [
+      "Lepley LK",
+      "Palmieri-Smith RM"
+    ],
     "year": 2019,
-    "conditions": ["acl"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 11,
-    "filename": "claes_2011_ligamentization.pdf",
+    "filename": "11_claes_2011_ligamentization.pdf",
     "title": "The Ligamentization Process in Anterior Cruciate Ligament Reconstruction",
-    "authors": ["Claes S", "Verdonk P", "Forsyth R", "Bellemans J"],
+    "authors": [
+      "Claes S",
+      "Verdonk P",
+      "Forsyth R",
+      "Bellemans J"
+    ],
     "year": 2011,
-    "conditions": ["acl"],
-    "topics": ["tissue_healing"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "tissue_healing"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 12,
-    "filename": "janssen_2017_acl_surgery_outcomes.pdf",
+    "filename": "12_janssen_2017_acl_surgery_outcomes.pdf",
     "title": "Outcomes of Anterior Cruciate Ligament Reconstruction: A Comparison of Surgical Techniques",
-    "authors": ["Janssen RPA", "Scheffler SU"],
+    "authors": [
+      "Janssen RPA",
+      "Scheffler SU"
+    ],
     "year": 2017,
-    "conditions": ["acl"],
-    "topics": ["return_to_sport"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "low"
   },
   {
     "paper_id": 13,
-    "filename": "webster_2016_reinjury_younger.pdf",
+    "filename": "13_webster_2016_reinjury_younger.pdf",
     "title": "Younger Patients Are at Increased Risk for Graft Rupture and Contralateral Injury After ACL Reconstruction",
-    "authors": ["Webster KE", "Feller JA"],
+    "authors": [
+      "Webster KE",
+      "Feller JA"
+    ],
     "year": 2016,
-    "conditions": ["acl"],
-    "topics": ["return_to_sport"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 14,
-    "filename": "ardern_2013_psychological_readiness.pdf",
+    "filename": "14_ardern_2013_psychological_readiness.pdf",
     "title": "Psychological Responses Matter in Returning to Preinjury Level of Sport After ACL Reconstruction Surgery",
     "authors": [
       "Ardern CL",
@@ -192,27 +309,45 @@
       "Webster KE"
     ],
     "year": 2013,
-    "conditions": ["acl"],
-    "topics": ["return_to_sport"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 15,
-    "filename": "phisitkul_2006_mcl_review.pdf",
+    "filename": "15_phisitkul_2006_mcl_review.pdf",
     "title": "MCL Injuries of the Knee: Current Concepts Review",
-    "authors": ["Phisitkul P", "James SL", "Wolf BR", "Amendola A"],
+    "authors": [
+      "Phisitkul P",
+      "James SL",
+      "Wolf BR",
+      "Amendola A"
+    ],
     "year": 2006,
-    "conditions": ["mcl"],
-    "topics": ["rehab_protocol", "tissue_healing"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "mcl"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "tissue_healing"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 16,
-    "filename": "laprade_2007_mcl_anatomy.pdf",
+    "filename": "16_laprade_2007_mcl_anatomy.pdf",
     "title": "The Anatomy of the Medial Part of the Knee",
     "authors": [
       "LaPrade RF",
@@ -223,27 +358,44 @@
       "Engebretsen L"
     ],
     "year": 2007,
-    "conditions": ["mcl"],
-    "topics": ["tissue_healing"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "mcl"
+    ],
+    "topics": [
+      "tissue_healing"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 17,
-    "filename": "andrews_2017_mcl_injuries.pdf",
+    "filename": "17_andrews_2017_mcl_injuries.pdf",
     "title": "Medial Collateral Ligament Injuries: A Comprehensive Review",
-    "authors": ["Andrews K", "Lu A", "McKean L", "Ebraheim N"],
+    "authors": [
+      "Andrews K",
+      "Lu A",
+      "McKean L",
+      "Ebraheim N"
+    ],
     "year": 2017,
-    "conditions": ["mcl"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "mcl"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 18,
-    "filename": "wijdicks_2010_mcl_injuries.pdf",
+    "filename": "18_wijdicks_2010_mcl_injuries.pdf",
     "title": "Injuries to the Medial Collateral Ligament and Associated Medial Structures of the Knee",
     "authors": [
       "Wijdicks CA",
@@ -253,27 +405,46 @@
       "LaPrade RF"
     ],
     "year": 2010,
-    "conditions": ["mcl"],
-    "topics": ["rehab_protocol", "tissue_healing"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "mcl"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "tissue_healing"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 19,
-    "filename": "laprade_2015_pcl_anatomy.pdf",
+    "filename": "19_laprade_2015_pcl_anatomy.pdf",
     "title": "Anatomy and Biomechanics of the Posterior Cruciate Ligament",
-    "authors": ["LaPrade CM", "Civitarese DM", "Rasmussen MT", "LaPrade RF"],
+    "authors": [
+      "LaPrade CM",
+      "Civitarese DM",
+      "Rasmussen MT",
+      "LaPrade RF"
+    ],
     "year": 2015,
-    "conditions": ["pcl"],
-    "topics": ["tissue_healing", "rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "pcl"
+    ],
+    "topics": [
+      "tissue_healing",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 20,
-    "filename": "patel_2007_pcl_nonoperative.pdf",
+    "filename": "20_patel_2007_pcl_nonoperative.pdf",
     "title": "Nonoperative Management of Posterior Cruciate Ligament Injuries",
     "authors": [
       "Patel DV",
@@ -283,15 +454,21 @@
       "Simonian PT"
     ],
     "year": 2007,
-    "conditions": ["pcl"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "pcl"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 21,
-    "filename": "crossley_2016_pfp_consensus.pdf",
+    "filename": "21_crossley_2016_pfp_consensus.pdf",
     "title": "2016 Patellofemoral Pain Consensus Statement from the 4th International Patellofemoral Pain Research Retreat",
     "authors": [
       "Crossley KM",
@@ -302,15 +479,21 @@
       "Barton CJ"
     ],
     "year": 2016,
-    "conditions": ["anterior_knee"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "anterior_knee"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "consensus_statement",
     "priority": "high"
   },
   {
     "paper_id": 22,
-    "filename": "collins_2018_pfp_exercise_consensus.pdf",
+    "filename": "22_changename_collins_2018_pfp_exercise_consensus.pdf",
     "title": "The Management of Patellofemoral Pain: An Exercise Therapy Consensus",
     "authors": [
       "Collins NJ",
@@ -324,75 +507,141 @@
       "Crossley KM"
     ],
     "year": 2018,
-    "conditions": ["anterior_knee"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "anterior_knee"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "consensus_statement",
     "priority": "high"
   },
   {
     "paper_id": 23,
-    "filename": "barton_2015_patellar_taping.pdf",
+    "filename": "23_barton_2015_patellar_taping.pdf",
     "title": "Kinesio Taping and Patellofemoral Pain Syndrome: A Systematic Review",
-    "authors": ["Rafael Merino-Marban", "Lopez Aguilar Beatriz"],
+    "authors": [
+      "Rafael Merino-Marban",
+      "Lopez Aguilar Beatriz"
+    ],
     "year": 2015,
-    "conditions": ["anterior_knee"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "anterior_knee"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "systematic_review",
     "priority": "low"
   },
   {
     "paper_id": 24,
-    "filename": "powers_2017_pfp_pathomechanical.pdf",
+    "filename": "24_powers_2017_pfp_pathomechanical.pdf",
     "title": "Evidence-Based Framework for a Pathomechanical Model of Patellofemoral Pain",
-    "authors": ["Powers CM", "Witvrouw E", "Davis IS", "Crossley KM"],
+    "authors": [
+      "Powers CM",
+      "Witvrouw E",
+      "Davis IS",
+      "Crossley KM"
+    ],
     "year": 2017,
-    "conditions": ["anterior_knee"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "anterior_knee"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 25,
-    "filename": "rathleff_2015_hip_strength_pfp.pdf",
+    "filename": "25_rathleff_2015_hip_strength.pdf",
     "title": "Is Hip Strength a Risk Factor for Patellofemoral Pain? A Systematic Review and Meta-Analysis",
-    "authors": ["Rathleff MS", "Rathleff CR", "Crossley KM", "Barton CJ"],
+    "authors": [
+      "Rathleff MS",
+      "Rathleff CR",
+      "Crossley KM",
+      "Barton CJ"
+    ],
     "year": 2015,
-    "conditions": ["anterior_knee"],
-    "topics": ["exercise_selection"],
-    "body_regions": ["knee", "hip"],
+    "conditions": [
+      "acl",
+      "anterior_knee",
+      "hip_adductor",
+      "hip_labral",
+      "mcl"
+    ],
+    "topics": [
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "knee",
+      "hip"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 26,
-    "filename": "malliaras_2015_patellar_tendinopathy.pdf",
+    "filename": "26_malliaras_2015_patellar_tendinopathy.pdf",
     "title": "Patellar Tendinopathy: Clinical Diagnosis, Load Management, and Advice for Challenging Case Presentations",
-    "authors": ["Malliaras P", "Cook J", "Purdam C", "Rio E"],
+    "authors": [
+      "Malliaras P",
+      "Cook J",
+      "Purdam C",
+      "Rio E"
+    ],
     "year": 2015,
-    "conditions": ["patellar_tendon"],
-    "topics": ["rehab_protocol", "pain_monitoring"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "patellar_tendon"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "pain_monitoring"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "clinical_guideline",
     "priority": "high"
   },
   {
     "paper_id": 27,
-    "filename": "rio_2020_isometric_patellar.pdf",
+    "filename": "27_rio_2020_isometric_patellar.pdf",
     "title": "Effectiveness of isometric exercise in the management of tendinopathy: a systematic review and meta-analysis of randomised trials",
-    "authors": ["Christopher Clifford", "Dimitris Challoumas"],
+    "authors": [
+      "Christopher Clifford",
+      "Dimitris Challoumas"
+    ],
     "year": 2020,
-    "conditions": ["patellar_tendon", "general_tendinopathy"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "patellar_tendon",
+      "general_tendinopathy"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "high"
   },
   {
     "paper_id": 28,
-    "filename": "kongsgaard_2009_hsr_patellar.pdf",
+    "filename": "28_kongsgaard_2009_hsr_patellar.pdf",
     "title": "Corticosteroid Injections, Eccentric Decline Squat Training, and Heavy Slow Resistance Training in Patellar Tendinopathy",
     "authors": [
       "Kongsgaard M",
@@ -406,27 +655,42 @@
       "Magnusson SP"
     ],
     "year": 2009,
-    "conditions": ["patellar_tendon"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "patellar_tendon"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 29,
-    "filename": "lim_2016_isometric_eccentric_hsr.pdf",
-    "title": "The Effectiveness of Isometric Contractions Combined with Eccentric – Concentric Training and Simple LumboPelvic Control Exercises on Pain and Disability in Chronic Patellar Tendinopathy: A Case Report",
-    "authors": ["Dimitrios Stasinopoulos"],
+    "filename": "29_lim_2016_isometric_eccentric_hsr.pdf",
+    "title": "The Effectiveness of Isometric Contractions Combined with Eccentric \u2013 Concentric Training and Simple LumboPelvic Control Exercises on Pain and Disability in Chronic Patellar Tendinopathy: A Case Report",
+    "authors": [
+      "Dimitrios Stasinopoulos"
+    ],
     "year": 2016,
-    "conditions": ["patellar_tendon"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "patellar_tendon"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 30,
-    "filename": "gribble_2016_ankle_consensus.pdf",
+    "filename": "30_gribble_2016_ankle_consensus.pdf",
     "title": "2017 Updated International Ankle Consortium Consensus Statement on Lateral Ankle Sprain",
     "authors": [
       "Gribble PA",
@@ -440,27 +704,45 @@
       "Kaminski TW"
     ],
     "year": 2016,
-    "conditions": ["ankle_lateral"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["ankle"],
+    "conditions": [
+      "ankle_lateral"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "ankle"
+    ],
     "content_type": "consensus_statement",
     "priority": "high"
   },
   {
     "paper_id": 31,
-    "filename": "doherty_2017_ankle_treatment.pdf",
+    "filename": "31_doherty_2017_ankle_treatment.pdf",
     "title": "Treatment and Prevention of Acute and Recurrent Ankle Sprain: An Overview of Systematic Reviews",
-    "authors": ["Doherty C", "Bleakley C", "Delahunt E", "Holden S"],
+    "authors": [
+      "Doherty C",
+      "Bleakley C",
+      "Delahunt E",
+      "Holden S"
+    ],
     "year": 2017,
-    "conditions": ["ankle_lateral"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["ankle"],
+    "conditions": [
+      "ankle_lateral"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "ankle"
+    ],
     "content_type": "systematic_review",
     "priority": "high"
   },
   {
     "paper_id": 32,
-    "filename": "kaminski_2019_ankle_athletes.pdf",
+    "filename": "32_kaminski_2019_ankle_athletes.pdf",
     "title": "National Athletic Trainers Association Position Statement: Conservative Management of Ankle Sprains in Athletes",
     "authors": [
       "Kaminski TW",
@@ -474,27 +756,43 @@
       "Richie D"
     ],
     "year": 2019,
-    "conditions": ["ankle_lateral"],
-    "topics": ["rehab_protocol", "return_to_sport"],
-    "body_regions": ["ankle"],
+    "conditions": [
+      "ankle_lateral"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "ankle"
+    ],
     "content_type": "clinical_guideline",
     "priority": "medium"
   },
   {
     "paper_id": 33,
-    "filename": "hiller_2011_recurrent_ankle.pdf",
+    "filename": "33_hiller_2011_recurrent_ankle.pdf",
     "title": "Lateral Ankle Sprain and Chronic Ankle Instability",
-    "authors": ["Aida K. Sarcon", "Eric Giza"],
+    "authors": [
+      "Aida K. Sarcon",
+      "Eric Giza"
+    ],
     "year": 2011,
-    "conditions": ["ankle_lateral"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["ankle"],
+    "conditions": [
+      "ankle_lateral"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "ankle"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 34,
-    "filename": "vuurberg_2018_ankle_guideline.pdf",
+    "filename": "34_vuurberg_2018_ankle_guideline.pdf",
     "title": "Diagnosis, Treatment and Prevention of Ankle Sprains: Update of an Evidence-Based Clinical Guideline",
     "authors": [
       "Vuurberg G",
@@ -508,51 +806,91 @@
       "Loogman MCM"
     ],
     "year": 2018,
-    "conditions": ["ankle_lateral"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["ankle"],
+    "conditions": [
+      "ankle_lateral"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "ankle"
+    ],
     "content_type": "clinical_guideline",
     "priority": "medium"
   },
   {
     "paper_id": 35,
-    "filename": "silbernagel_2007_achilles_pain_monitoring.pdf",
+    "filename": "35_silbernagel_2007_achilles_pain_monitoring.pdf",
     "title": "Continued Sports Activity Using a Pain Monitoring Model During Rehabilitation in Patients with Achilles Tendinopathy",
-    "authors": ["Silbernagel KG", "Thomee R", "Eriksson BI", "Karlsson J"],
+    "authors": [
+      "Silbernagel KG",
+      "Thomee R",
+      "Eriksson BI",
+      "Karlsson J"
+    ],
     "year": 2007,
-    "conditions": ["achilles", "general_tendinopathy"],
-    "topics": ["rehab_protocol", "pain_monitoring", "return_to_sport"],
-    "body_regions": ["ankle"],
+    "conditions": [
+      "achilles",
+      "general_tendinopathy"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "pain_monitoring",
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "ankle"
+    ],
     "content_type": "rct",
     "priority": "high"
   },
   {
     "paper_id": 36,
-    "filename": "alfredson_1998_eccentric_achilles.pdf",
+    "filename": "36_alfredson_1998_eccentric_achilles.pdf",
     "title": "Heavy-Load Eccentric Calf Muscle Training for the Treatment of Chronic Achilles Tendinosis",
-    "authors": ["Alfredson H", "Pietila T", "Jonsson P", "Lorentzon R"],
+    "authors": [
+      "Alfredson H",
+      "Pietila T",
+      "Jonsson P",
+      "Lorentzon R"
+    ],
     "year": 1998,
-    "conditions": ["achilles"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["ankle"],
+    "conditions": [
+      "achilles"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "ankle"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 37,
-    "filename": "murphy_2012_achilles_loading.pdf",
+    "filename": "37_murphy_2012_achilles_loading.pdf",
     "title": "Physical therapies for Achilles tendinopathy: systematic review and meta-analysis",
-    "authors": ["Samuel P Sussmilch-Leitch"],
+    "authors": [
+      "Samuel P Sussmilch-Leitch"
+    ],
     "year": 2012,
-    "conditions": ["achilles"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["ankle"],
+    "conditions": [
+      "achilles"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "ankle"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 38,
-    "filename": "beyer_2015_hsr_vs_eccentric_achilles.pdf",
+    "filename": "38_beyer_2015_hsr_vs_eccentric_achilles.pdf",
     "title": "Heavy Slow Resistance Versus Eccentric Training as Treatment for Achilles Tendinopathy",
     "authors": [
       "Beyer R",
@@ -563,27 +901,42 @@
       "Magnusson SP"
     ],
     "year": 2015,
-    "conditions": ["achilles"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["ankle"],
+    "conditions": [
+      "achilles"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "ankle"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 39,
-    "filename": "lewis_2016_rotator_cuff.pdf",
+    "filename": "39_lewis_2016_rotator_cuff.pdf",
     "title": "Rotator Cuff Related Shoulder Pain: Assessment, Management, and Uncertainties",
-    "authors": ["Lewis J"],
+    "authors": [
+      "Lewis J"
+    ],
     "year": 2016,
-    "conditions": ["shoulder_cuff"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["shoulder"],
+    "conditions": [
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "shoulder"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 40,
-    "filename": "littlewood_2015_rc_exercise.pdf",
+    "filename": "40_littlewood_2015_rc_exercise.pdf",
     "title": "Exercise for Rotator Cuff Tendinopathy: A Systematic Review",
     "authors": [
       "Littlewood C",
@@ -593,15 +946,22 @@
       "Sturrock B"
     ],
     "year": 2015,
-    "conditions": ["shoulder_cuff"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["shoulder"],
+    "conditions": [
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "shoulder"
+    ],
     "content_type": "systematic_review",
     "priority": "high"
   },
   {
     "paper_id": 41,
-    "filename": "cools_2014_scapular_rehab.pdf",
+    "filename": "41_cools_2014_scapular_rehab.pdf",
     "title": "Rehabilitation of Scapular Dyskinesis: From the Office Worker to the Elite Overhead Athlete",
     "authors": [
       "Cools AM",
@@ -611,106 +971,158 @@
       "Joris A"
     ],
     "year": 2014,
-    "conditions": ["shoulder_cuff", "shoulder_instability"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["shoulder"],
+    "conditions": [
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "shoulder"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
-    "paper_id": 42,
-    "filename": "kuhn_2009_rc_impingement.pdf",
-    "title": "Exercise in the Treatment of Rotator Cuff Impingement: A Systematic Review",
-    "authors": ["Kuhn JE"],
-    "year": 2009,
-    "conditions": ["shoulder_cuff"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["shoulder"],
-    "content_type": "systematic_review",
-    "priority": "medium"
-  },
-  {
     "paper_id": 43,
-    "filename": "edwards_2016_rc_nonoperative.pdf",
+    "filename": "43_edwards_2016_rc_nonoperative.pdf",
     "title": "EXERCISE REHABILITATION IN THE NON-OPERATIVE MANAGEMENT OF ROTATOR CUFF TEARS: A REVIEW OF THE LITERATURE",
-    "authors": ["Peter Edwards"],
+    "authors": [
+      "Peter Edwards"
+    ],
     "year": 2016,
-    "conditions": ["shoulder_cuff"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["shoulder"],
+    "conditions": [
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "shoulder"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 44,
-    "filename": "shire_2017_specific_vs_general_shoulder.pdf",
+    "filename": "44_shire_2017_specific_vs_general_shoulder.pdf",
     "title": "Specific or General Exercise Strategy for Subacromial Impingement Syndrome",
     "authors": [
       "Shire AR",
-      "Stæhr TAB",
+      "St\u00e6hr TAB",
       "Overby JB",
       "Bastholm Dahl M",
       "Sandell Jacobsen J",
       "Christensen BH"
     ],
     "year": 2017,
-    "conditions": ["shoulder_cuff"],
-    "topics": ["exercise_selection"],
-    "body_regions": ["shoulder"],
+    "conditions": [
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "shoulder"
+    ],
     "content_type": "rct",
     "priority": "low"
   },
   {
     "paper_id": 45,
-    "filename": "watson_2016_posterior_instability.pdf",
+    "filename": "45_watson_2016_posterior_instability.pdf",
     "title": "A comprehensive rehabilitation program for posterior instability of the shoulder",
-    "authors": ["Watson L", "Warby SA", "Balster S", "Lenssen R", "Pizzari T"],
+    "authors": [
+      "Watson L",
+      "Warby SA",
+      "Balster S",
+      "Lenssen R",
+      "Pizzari T"
+    ],
     "year": 2016,
-    "conditions": ["shoulder_instability"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["shoulder"],
+    "conditions": [
+      "shoulder_instability"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "shoulder"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 46,
-    "filename": "olds_2023_bankart_recurrence.pdf",
+    "filename": "46_olds_2023_bankart_recurrence.pdf",
     "title": "Risk Factors for Recurrent Instability After Arthroscopic Bankart Repair",
-    "authors": ["Shigeto Nakagawa", "Tatsuo Mae", "Seira Sato", "Miki Kuroda"],
+    "authors": [
+      "Shigeto Nakagawa",
+      "Tatsuo Mae",
+      "Seira Sato",
+      "Miki Kuroda"
+    ],
     "year": 2023,
-    "conditions": ["shoulder_instability"],
-    "topics": ["return_to_sport"],
-    "body_regions": ["shoulder"],
+    "conditions": [
+      "shoulder_instability"
+    ],
+    "topics": [
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "shoulder"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 47,
-    "filename": "warby_2014_mdi_exercise.pdf",
+    "filename": "47_warby_2014_mdi_exercise.pdf",
     "title": "The treatment of multidirectional instability of the shoulder with a rehabilitation program",
-    "authors": ["Lyn Watson"],
+    "authors": [
+      "Lyn Watson"
+    ],
     "year": 2014,
-    "conditions": ["shoulder_instability"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["shoulder"],
+    "conditions": [
+      "shoulder_instability"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "shoulder"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 48,
-    "filename": "holmich_1999_copenhagen_adductor.pdf",
-    "title": "The Effect of Therapeutic Exercise on Long-Standing Adductor-Related Groin Pain in Athletes: Modified Hölmich Protocol",
-    "authors": ["Abbas Yousefzadeh", " Azadeh Shadmehr"],
+    "filename": "48_holmich_1999_copenhagen_adductor.pdf",
+    "title": "The Effect of Therapeutic Exercise on Long-Standing Adductor-Related Groin Pain in Athletes: Modified H\u00f6lmich Protocol",
+    "authors": [
+      "Abbas Yousefzadeh",
+      " Azadeh Shadmehr"
+    ],
     "year": 2018,
-    "conditions": ["hip_adductor"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["hip"],
+    "conditions": [
+      "hip_adductor"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "hip"
+    ],
     "content_type": "rct",
     "priority": "high"
   },
   {
     "paper_id": 49,
-    "filename": "serner_2015_groin_management.pdf",
+    "filename": "49_serner_2015_groin_management.pdf",
     "title": "Study Quality on Groin Injury Management Remains Low: A Systematic Review",
     "authors": [
       "Serner A",
@@ -721,15 +1133,21 @@
       "de Vos RJ"
     ],
     "year": 2015,
-    "conditions": ["hip_adductor"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["hip"],
+    "conditions": [
+      "hip_adductor"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "hip"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 50,
-    "filename": "thorborg_2011_groin_exam.pdf",
+    "filename": "50_thorborg_2011_groin_exam.pdf",
     "title": "Clinical Examination of Groin Pain: A Systematic Review",
     "authors": [
       "Thorborg K",
@@ -739,27 +1157,42 @@
       "Roos EM"
     ],
     "year": 2011,
-    "conditions": ["hip_adductor"],
-    "topics": ["movement_screening"],
-    "body_regions": ["hip"],
+    "conditions": [
+      "hip_adductor"
+    ],
+    "topics": [
+      "movement_screening"
+    ],
+    "body_regions": [
+      "hip"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 51,
-    "filename": "ishoi_2020_copenhagen_football.pdf",
+    "filename": "51_ishoi_2020_copenhagen_football.pdf",
     "title": "Copenhagen Adduction Exercise to Increase Eccentric Strength: A Systematic Review and Meta-Analysis",
-    "authors": ["Jorge Perez-Gomez"],
+    "authors": [
+      "Jorge Perez-Gomez"
+    ],
     "year": 2020,
-    "conditions": ["hip_adductor"],
-    "topics": ["exercise_selection", "rehab_protocol"],
-    "body_regions": ["hip"],
+    "conditions": [
+      "hip_adductor"
+    ],
+    "topics": [
+      "exercise_selection",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "hip"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 52,
-    "filename": "griffin_2018_fai_consensus.pdf",
+    "filename": "52_griffin_2018_fai_consensus.pdf",
     "title": "The Warwick Agreement on Femoroacetabular Impingement Syndrome (FAI): An International Consensus Statement",
     "authors": [
       "Griffin DR",
@@ -773,75 +1206,128 @@
       "Falvey E"
     ],
     "year": 2018,
-    "conditions": ["hip_labral"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["hip"],
+    "conditions": [
+      "hip_labral"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "hip"
+    ],
     "content_type": "consensus_statement",
     "priority": "medium"
   },
   {
     "paper_id": 53,
-    "filename": "wall_2016_hip_exercise.pdf",
+    "filename": "53_wall_2016_hip_exercise.pdf",
     "title": "Exercise therapy for the management of osteoarthritis of the hip joint: a systematic review",
-    "authors": ["Peter J McNair"],
+    "authors": [
+      "Peter J McNair"
+    ],
     "year": 2016,
-    "conditions": ["hip_labral"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["hip"],
+    "conditions": [
+      "hip_labral"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "hip"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 54,
-    "filename": "coombes_2015_lateral_elbow.pdf",
+    "filename": "54_coombes_2015_lateral_elbow.pdf",
     "title": "Management of Lateral Elbow Tendinopathy: One Size Does Not Fit All",
-    "authors": ["Coombes BK", "Bisset L", "Vicenzino B"],
+    "authors": [
+      "Coombes BK",
+      "Bisset L",
+      "Vicenzino B"
+    ],
     "year": 2015,
-    "conditions": ["elbow_lateral"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["elbow"],
+    "conditions": [
+      "elbow_lateral"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "elbow"
+    ],
     "content_type": "clinical_guideline",
     "priority": "high"
   },
   {
     "paper_id": 55,
-    "filename": "bisset_2006_tennis_elbow.pdf",
+    "filename": "55_bisset_2006_tennis_elbow.pdf",
     "title": "A Systematic Review and Meta-Analysis of Clinical Trials on Physical Interventions for Lateral Epicondylalgia",
-    "authors": ["Bisset L", "Paungmali A", "Vicenzino B", "Beller E"],
+    "authors": [
+      "Bisset L",
+      "Paungmali A",
+      "Vicenzino B",
+      "Beller E"
+    ],
     "year": 2006,
-    "conditions": ["elbow_lateral"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["elbow"],
+    "conditions": [
+      "elbow_lateral"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "elbow"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 56,
-    "filename": "stasinopoulos_2021_lateral_elbow_staging.pdf",
+    "filename": "56_stasinopoulos_2021_lateral_elbow_staging.pdf",
     "title": "Lateral Elbow Tendinopathy: A Staged Rehabilitation Protocol",
-    "authors": ["Stasinopoulos D"],
+    "authors": [
+      "Stasinopoulos D"
+    ],
     "year": 2021,
-    "conditions": ["elbow_lateral"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["elbow"],
+    "conditions": [
+      "elbow_lateral"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "elbow"
+    ],
     "content_type": "narrative_review",
     "priority": "low"
   },
   {
     "paper_id": 57,
-    "filename": "nice_2016_lbp_guideline.pdf",
+    "filename": "57_nice_2016_lbp_guideline.pdf",
     "title": "Low Back Pain and Sciatica in Over 16s: Assessment and Management (NICE Guideline NG59)",
-    "authors": ["National Institute for Health and Care Excellence"],
+    "authors": [
+      "National Institute for Health and Care Excellence"
+    ],
     "year": 2016,
-    "conditions": ["lbp_flexion", "lbp_extension"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["spine"],
+    "conditions": [
+      "lbp_flexion",
+      "lbp_extension"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "spine"
+    ],
     "content_type": "clinical_guideline",
     "priority": "high"
   },
   {
     "paper_id": 58,
-    "filename": "foster_2018_lbp_lancet.pdf",
+    "filename": "58_foster_2018_lbp_lancet.pdf",
     "title": "Prevention and Treatment of Low Back Pain: Evidence, Challenges, and Promising Directions",
     "authors": [
       "Foster NE",
@@ -855,15 +1341,23 @@
       "Koes BW"
     ],
     "year": 2018,
-    "conditions": ["lbp_flexion", "lbp_extension"],
-    "topics": ["rehab_protocol", "general_principles"],
-    "body_regions": ["spine"],
+    "conditions": [
+      "lbp_flexion",
+      "lbp_extension"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "general_principles"
+    ],
+    "body_regions": [
+      "spine"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 59,
-    "filename": "osullivan_2018_cft_lbp.pdf",
+    "filename": "59_osullivan_2018_cft_lbp.pdf",
     "title": "Cognitive Functional Therapy: An Integrated Behavioral Approach for the Targeted Management of Disabling Low Back Pain",
     "authors": [
       "O'Sullivan PB",
@@ -875,41 +1369,75 @@
       "O'Sullivan K"
     ],
     "year": 2018,
-    "conditions": ["lbp_flexion", "lbp_extension"],
-    "topics": ["rehab_protocol", "pain_monitoring", "general_principles"],
-    "body_regions": ["spine"],
+    "conditions": [
+      "lbp_flexion",
+      "lbp_extension"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "pain_monitoring",
+      "general_principles"
+    ],
+    "body_regions": [
+      "spine"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 60,
-    "filename": "hayden_2005_exercise_lbp.pdf",
+    "filename": "60_hayden_2005_exercise_lbp.pdf",
     "title": "Meta-Analysis: Exercise Therapy for Nonspecific Low Back Pain",
-    "authors": ["Hayden JA", "van Tulder MW", "Malmivaara A", "Koes BW"],
+    "authors": [
+      "Hayden JA",
+      "van Tulder MW",
+      "Malmivaara A",
+      "Koes BW"
+    ],
     "year": 2005,
-    "conditions": ["lbp_flexion", "lbp_extension"],
-    "topics": ["exercise_selection", "rehab_protocol"],
-    "body_regions": ["spine"],
+    "conditions": [
+      "lbp_flexion",
+      "lbp_extension"
+    ],
+    "topics": [
+      "exercise_selection",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "spine"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 61,
-    "filename": "mcgill_2010_core_training.pdf",
+    "filename": "61_mcgill_2010_core_training.pdf",
     "title": "Core Training: Evidence Translating to Better Performance and Injury Prevention",
-    "authors": ["McGill SM"],
+    "authors": [
+      "McGill SM"
+    ],
     "year": 2010,
-    "conditions": ["lbp_flexion", "lbp_extension"],
-    "topics": ["exercise_selection"],
-    "body_regions": ["spine"],
+    "conditions": [
+      "lbp_flexion",
+      "lbp_extension"
+    ],
+    "topics": [
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "spine"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 62,
-    "filename": "cook_2009_tendon_continuum.pdf",
+    "filename": "62_cook_2009_tendon_continuum.pdf",
     "title": "A Cross-Sectional Study of 100 Athletes with Jumper's Knee Managed Conservatively and Surgically: The ACL Study Group",
-    "authors": ["Cook JL", "Purdam CR"],
+    "authors": [
+      "Cook JL",
+      "Purdam CR"
+    ],
     "year": 2009,
     "conditions": [
       "general_tendinopathy",
@@ -918,16 +1446,26 @@
       "shoulder_cuff",
       "elbow_lateral"
     ],
-    "topics": ["tissue_healing", "general_principles"],
-    "body_regions": ["general"],
+    "topics": [
+      "tissue_healing",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 63,
-    "filename": "cook_2016_tendon_continuum_updated.pdf",
+    "filename": "63_cook_2016_tendon_continuum_updated.pdf",
     "title": "Revisiting the Continuum Model of Tendon Pathology: What Is Its Merit in Clinical Practice and Research?",
-    "authors": ["Cook JL", "Rio E", "Purdam CR", "Docking SI"],
+    "authors": [
+      "Cook JL",
+      "Rio E",
+      "Purdam CR",
+      "Docking SI"
+    ],
     "year": 2016,
     "conditions": [
       "general_tendinopathy",
@@ -936,100 +1474,224 @@
       "shoulder_cuff",
       "elbow_lateral"
     ],
-    "topics": ["tissue_healing", "general_principles"],
-    "body_regions": ["general"],
+    "topics": [
+      "tissue_healing",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 64,
-    "filename": "rio_2014_isometric_vs_isotonic.pdf",
+    "filename": "64_rio_2014_isometric_vs_isotonic.pdf",
     "title": "A systematic review: impact of dry needling, isometric, and eccentric exercises on pain and function in individuals with patellar tendinopath",
-    "authors": ["Dania Mahmood "],
+    "authors": [
+      "Dania Mahmood "
+    ],
     "year": 2014,
-    "conditions": ["general_tendinopathy", "patellar_tendon"],
-    "topics": ["exercise_selection", "rehab_protocol"],
-    "body_regions": ["general", "knee"],
+    "conditions": [
+      "general_tendinopathy",
+      "patellar_tendon"
+    ],
+    "topics": [
+      "exercise_selection",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "general",
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 65,
-    "filename": "malliaras_2013_achilles_patellar_loading.pdf",
+    "filename": "65_malliaras_2013_achilles_patellar_loading.pdf",
     "title": "Achilles and Patellar Tendinopathy Loading Programmes: A Systematic Review",
-    "authors": ["Malliaras P", "Barton CJ", "Reeves ND", "Langberg H"],
+    "authors": [
+      "Malliaras P",
+      "Barton CJ",
+      "Reeves ND",
+      "Langberg H"
+    ],
     "year": 2013,
-    "conditions": ["general_tendinopathy", "patellar_tendon", "achilles"],
-    "topics": ["rehab_protocol", "exercise_selection"],
-    "body_regions": ["general", "knee", "ankle"],
+    "conditions": [
+      "general_tendinopathy",
+      "patellar_tendon",
+      "achilles"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "general",
+      "knee",
+      "ankle"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 66,
-    "filename": "taberner_2019_training_testing_continuum.pdf",
+    "filename": "66_taberner_2019_training_testing_continuum.pdf",
     "title": "Progressing Rehabilitation After Injury: Consider the Training-Testing Continuum",
-    "authors": ["Taberner M", "Allen T", "Cohen DD"],
+    "authors": [
+      "Taberner M",
+      "Allen T",
+      "Cohen DD"
+    ],
     "year": 2019,
-    "conditions": ["acl"],
-    "topics": ["return_to_sport", "load_management"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "return_to_sport",
+      "load_management"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 67,
-    "filename": "buckthorpe_2019_late_stage_acl.pdf",
+    "filename": "67_buckthorpe_2019_late_stage_acl.pdf",
     "title": "Rehabilitation After Anterior Cruciate Ligament Injury: Review of Current Literature and Recommendations",
-    "authors": ["Sarah M. Jenkins"],
+    "authors": [
+      "Sarah M. Jenkins"
+    ],
     "year": 2019,
-    "conditions": ["acl"],
-    "topics": ["return_to_sport", "rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl"
+    ],
+    "topics": [
+      "return_to_sport",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 68,
-    "filename": "gabbett_2016_training_injury_paradox.pdf",
+    "filename": "68_gabbett_2016_training_injury_paradox.pdf",
     "title": "The Training-Injury Prevention Paradox: Should Athletes Be Training Smarter and Harder?",
-    "authors": ["Gabbett TJ"],
+    "authors": [
+      "Gabbett TJ"
+    ],
     "year": 2016,
-    "conditions": [],
-    "topics": ["load_management", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "load_management",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 69,
-    "filename": "blanch_2020_acwr_return.pdf",
+    "filename": "69_blanch_2020_acwr_return.pdf",
     "title": "Association Between the Acute to Chronic Workload Ratio and Injury Occurrence in Young Male Team Soccer Players: A Preliminary Study",
-    "authors": ["Daniel A. Boullosa"],
+    "authors": [
+      "Daniel A. Boullosa"
+    ],
     "year": 2020,
-    "conditions": [],
-    "topics": ["load_management", "return_to_sport"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "load_management",
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 70,
-    "filename": "mendiguchia_2014_speed_sprint.pdf",
+    "filename": "70_mendiguchia_2015_speed_sprint.pdf",
     "title": "A simple method for measuring power, force, velocity properties, and mechanical effectiveness in sprint running: Simple method to compute sprint mechanics",
-    "authors": ["Samozino P"],
+    "authors": [
+      "Samozino P"
+    ],
     "year": 2015,
     "conditions": [],
-    "topics": ["speed_programming", "sprint_mechanics"],
-    "body_regions": ["general"],
+    "topics": [
+      "speed_programming",
+      "sprint_mechanics"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 71,
-    "filename": "haff_2016_nsca_essentials.pdf",
+    "filename": "71_haff_2016_nsca_essentials.pdf",
     "title": "Strength Training and Conditioning ",
-    "authors": ["Lee E. Brown"],
+    "authors": [
+      "Lee E. Brown"
+    ],
     "year": 2016,
     "conditions": [],
     "topics": [
@@ -1038,145 +1700,237 @@
       "exercise_selection",
       "general_principles"
     ],
-    "body_regions": ["general"],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "textbook",
     "priority": "high"
   },
   {
     "paper_id": 72,
-    "filename": "bompa_periodization.pdf",
+    "filename": "72_bompa_periodization.pdf",
     "title": "Periodization: Current Review and Suggested Implementation for Athletic Rehabilitation",
-    "authors": ["Daniel S Lorenz"],
+    "authors": [
+      "Daniel S Lorenz"
+    ],
     "year": 2019,
     "conditions": [],
-    "topics": ["periodisation", "strength_programming", "general_principles"],
-    "body_regions": ["general"],
+    "topics": [
+      "periodisation",
+      "strength_programming",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "textbook",
     "priority": "high"
   },
   {
     "paper_id": 73,
-    "filename": "schoenfeld_2010_hypertrophy_mechanisms.pdf",
+    "filename": "73_schoenfeld_2010_hypertrophy_mechanisms.pdf",
     "title": "The Mechanisms of Muscle Hypertrophy and Their Application to Resistance Training",
-    "authors": ["Schoenfeld BJ"],
+    "authors": [
+      "Schoenfeld BJ"
+    ],
     "year": 2010,
     "conditions": [],
-    "topics": ["hypertrophy_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "hypertrophy_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 74,
-    "filename": "schoenfeld_2017_volume_dose_response.pdf",
+    "filename": "74_schoenfeld_2017_volume_dose_response.pdf",
     "title": "Dose-Response Relationship Between Weekly Resistance Training Volume and Increases in Muscle Mass",
-    "authors": ["Schoenfeld BJ", "Ogborn D", "Krieger JW"],
+    "authors": [
+      "Schoenfeld BJ",
+      "Ogborn D",
+      "Krieger JW"
+    ],
     "year": 2017,
     "conditions": [],
-    "topics": ["hypertrophy_programming", "strength_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "hypertrophy_programming",
+      "strength_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 75,
-    "filename": "ralston_2017_weekly_set_volume.pdf",
+    "filename": "75_ralston_2017_weekly_set_volume.pdf",
     "title": "The Effect of Weekly Set Volume on Strength Gain: A Meta-Analysis",
-    "authors": ["Ralston GW", "Kilgore L", "Wyatt FB", "Baker JS"],
+    "authors": [
+      "Ralston GW",
+      "Kilgore L",
+      "Wyatt FB",
+      "Baker JS"
+    ],
     "year": 2017,
     "conditions": [],
-    "topics": ["strength_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "strength_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 76,
-    "filename": "haugen_2019_sprint_mechanics.pdf",
+    "filename": "76_haugen_2019_sprint_mechanics.pdf",
     "title": "Sprint Running: From Fundamental Mechanics to Practice",
-    "authors": ["Haugen T", "McGhie D", "Ettema G"],
+    "authors": [
+      "Haugen T",
+      "McGhie D",
+      "Ettema G"
+    ],
     "year": 2019,
     "conditions": [],
-    "topics": ["speed_programming", "sprint_mechanics"],
-    "body_regions": ["general"],
+    "topics": [
+      "speed_programming",
+      "sprint_mechanics"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 77,
-    "filename": "morin_2016_fv_profiling.pdf",
+    "filename": "77_morin_2016_fv_profiling.pdf",
     "title": "Interpreting Power-Force-Velocity Profiles for Individualized and Specific Training",
-    "authors": ["Morin JB", "Samozino P"],
+    "authors": [
+      "Morin JB",
+      "Samozino P"
+    ],
     "year": 2016,
     "conditions": [],
-    "topics": ["speed_programming", "power_programming", "sprint_mechanics"],
-    "body_regions": ["general"],
+    "topics": [
+      "speed_programming",
+      "power_programming",
+      "sprint_mechanics"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 78,
-    "filename": "petrakos_2016_resisted_sled.pdf",
+    "filename": "78_petrakos_2016_resisted_sled.pdf",
     "title": "Resisted Sled Sprint Training to Improve Sprint Performance: A Systematic Review",
-    "authors": ["Petrakos G", "Morin JB", "Egan B"],
+    "authors": [
+      "Petrakos G",
+      "Morin JB",
+      "Egan B"
+    ],
     "year": 2016,
     "conditions": [],
-    "topics": ["speed_programming", "sprint_mechanics"],
-    "body_regions": ["general"],
+    "topics": [
+      "speed_programming",
+      "sprint_mechanics"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 79,
-    "filename": "suchomel_2016_muscular_strength.pdf",
+    "filename": "79_suchomel_2016_muscular_strength.pdf",
     "title": "The Importance of Muscular Strength in Athletic Performance",
-    "authors": ["Suchomel TJ", "Nimphius S", "Stone MH"],
+    "authors": [
+      "Suchomel TJ",
+      "Nimphius S",
+      "Stone MH"
+    ],
     "year": 2016,
     "conditions": [],
-    "topics": ["strength_programming", "power_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "strength_programming",
+      "power_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 80,
-    "filename": "cormie_2011_neuromuscular_power.pdf",
+    "filename": "80_cormie_2011_neuromuscular_power.pdf",
     "title": "Developing Maximal Neuromuscular Power",
-    "authors": ["Cormie P", "McGuigan MR", "Newton RU"],
+    "authors": [
+      "Cormie P",
+      "McGuigan MR",
+      "Newton RU"
+    ],
     "year": 2011,
     "conditions": [],
-    "topics": ["power_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "power_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 81,
-    "filename": "buchheit_2013a_hiit_part1.pdf",
+    "filename": "81_buchheit_2013a_hiit_part1.pdf",
     "title": "High-Intensity Interval Training, Solutions to the Programming Puzzle: Part I",
-    "authors": ["Buchheit M", "Laursen PB"],
+    "authors": [
+      "Buchheit M",
+      "Laursen PB"
+    ],
     "year": 2013,
     "conditions": [],
-    "topics": ["conditioning_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "conditioning_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 82,
-    "filename": "buchheit_2013b_hiit_part2.pdf",
+    "filename": "82_buchheit_2013b_hiit_part2.pdf",
     "title": "High-Intensity Interval Training, Solutions to the Programming Puzzle: Part II",
-    "authors": ["Buchheit M", "Laursen PB"],
+    "authors": [
+      "Buchheit M",
+      "Laursen PB"
+    ],
     "year": 2013,
     "conditions": [],
-    "topics": ["conditioning_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "conditioning_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 83,
-    "filename": "helgerud_2007_hiit_vo2max.pdf",
+    "filename": "83_helgerud_2007_hiit_vo2max.pdf",
     "title": "Aerobic High-Intensity Intervals Improve VO2max More Than Moderate Training",
     "authors": [
       "Helgerud J",
@@ -1193,98 +1947,192 @@
     ],
     "year": 2007,
     "conditions": [],
-    "topics": ["conditioning_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "conditioning_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 84,
-    "filename": "silbernagel_2015_pain_monitoring_rts.pdf",
+    "filename": "84_silbernagel_2015_pain_monitoring_rts.pdf",
     "title": "A Pain Monitoring Model for Tendinopathy Rehabilitation and Return to Sport",
-    "authors": ["Silbernagel KG", "Crossley KM"],
+    "authors": [
+      "Silbernagel KG",
+      "Crossley KM"
+    ],
     "year": 2015,
-    "conditions": ["achilles", "general_tendinopathy"],
-    "topics": ["pain_monitoring", "return_to_sport"],
-    "body_regions": ["general", "ankle"],
+    "conditions": [
+      "achilles",
+      "general_tendinopathy",
+      "patellar_tendon"
+    ],
+    "topics": [
+      "pain_monitoring",
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "general",
+      "ankle"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 85,
-    "filename": "thomee_1997_pfp_treatment.pdf",
+    "filename": "85_thomee_1997_pfp_treatment.pdf",
     "title": "A New Treatment Approach for Patellofemoral Pain Syndrome",
-    "authors": ["Thomee R"],
+    "authors": [
+      "Thomee R"
+    ],
     "year": 1997,
-    "conditions": ["anterior_knee"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "anterior_knee"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "low"
   },
   {
     "paper_id": 86,
-    "filename": "moseley_2017_explaining_pain.pdf",
+    "filename": "86_moseley_2017_explaining_pain.pdf",
     "title": "Explain Pain Supercharged",
-    "authors": ["Moseley GL", "Butler DS"],
+    "authors": [
+      "Moseley GL",
+      "Butler DS"
+    ],
     "year": 2017,
-    "conditions": [],
-    "topics": ["pain_monitoring", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "lbp_extension",
+      "lbp_flexion",
+      "patellar_tendon",
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "pain_monitoring",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 87,
-    "filename": "contreras_2011_hip_thrust.pdf",
+    "filename": "87_contreras_2011_hip_thrust.pdf",
     "title": "A Biomechanical Analysis of the Hip Thrust",
-    "authors": ["Contreras B", "Cronin J", "Schoenfeld B"],
+    "authors": [
+      "Contreras B",
+      "Cronin J",
+      "Schoenfeld B"
+    ],
     "year": 2011,
-    "conditions": [],
-    "topics": ["exercise_selection"],
-    "body_regions": ["general", "hip"],
+    "conditions": [
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "hip_adductor",
+      "hip_labral",
+      "mcl",
+      "pcl"
+    ],
+    "topics": [
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "general",
+      "hip"
+    ],
     "content_type": "narrative_review",
     "priority": "low"
   },
   {
     "paper_id": 88,
-    "filename": "boyle_functional_training.pdf",
+    "filename": "88_boyle_functional_training.pdf",
     "title": "New Functional Training for Sports (2nd Edition)",
-    "authors": ["Lee E. Brown"],
+    "authors": [
+      "Lee E. Brown"
+    ],
     "year": 2016,
     "conditions": [],
-    "topics": ["exercise_selection", "general_principles"],
-    "body_regions": ["general"],
+    "topics": [
+      "exercise_selection",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "textbook",
     "priority": "high"
   },
   {
     "paper_id": 89,
-    "filename": "schoenfeld_2010_squat_kinematics.pdf",
+    "filename": "89_schoenfeld_2010_squat_kinematics.pdf",
     "title": "Squatting Kinematics and Kinetics and Their Application to Exercise Performance",
-    "authors": ["Schoenfeld BJ"],
+    "authors": [
+      "Schoenfeld BJ"
+    ],
     "year": 2010,
-    "conditions": [],
-    "topics": ["exercise_selection"],
-    "body_regions": ["general", "knee"],
+    "conditions": [
+      "acl",
+      "anterior_knee",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl"
+    ],
+    "topics": [
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "general",
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 90,
-    "filename": "escamilla_2001_squat_knee_biomechanics.pdf",
+    "filename": "90_escamilla_2001_squat_knee_biomechanics.pdf",
     "title": "Knee Biomechanics of the Dynamic Squat Exercise",
-    "authors": ["Escamilla RF"],
+    "authors": [
+      "Escamilla RF"
+    ],
     "year": 2001,
-    "conditions": [],
-    "topics": ["exercise_selection"],
-    "body_regions": ["general", "knee"],
+    "conditions": [
+      "acl",
+      "anterior_knee",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl"
+    ],
+    "topics": [
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "general",
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 91,
-    "filename": "zech_2009_balance_training.pdf",
+    "filename": "91_zech_2009_balance_training.pdf",
     "title": "Balance Training for Neuromuscular Control and Performance Enhancement: A Systematic Review",
     "authors": [
       "Zech A",
@@ -1295,15 +2143,27 @@
       "Pfeifer K"
     ],
     "year": 2009,
-    "conditions": [],
-    "topics": ["balance_proprioception", "rehab_protocol"],
-    "body_regions": ["general"],
+    "conditions": [
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "mcl",
+      "meniscus",
+      "pcl"
+    ],
+    "topics": [
+      "balance_proprioception",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 92,
-    "filename": "emery_2015_nmt_injury_prevention.pdf",
+    "filename": "92_emery_2015_nmt_injury_prevention.pdf",
     "title": "Neuromuscular Training Injury Prevention Strategies in Youth Sport: A Systematic Review and Meta-Analysis",
     "authors": [
       "Emery CA",
@@ -1313,39 +2173,89 @@
       "van Mechelen W"
     ],
     "year": 2015,
-    "conditions": [],
-    "topics": ["balance_proprioception", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "acl",
+      "ankle_lateral",
+      "mcl",
+      "meniscus",
+      "pcl"
+    ],
+    "topics": [
+      "balance_proprioception",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 93,
-    "filename": "risberg_2001_nmt_acl.pdf",
+    "filename": "93_risberg_2001_nmt_acl.pdf",
     "title": "Design and Implementation of a Neuromuscular Training Program Following ACL Reconstruction",
-    "authors": ["Risberg MA", "Mork M", "Jenssen HK", "Holm I"],
+    "authors": [
+      "Risberg MA",
+      "Mork M",
+      "Jenssen HK",
+      "Holm I"
+    ],
     "year": 2001,
-    "conditions": ["acl"],
-    "topics": ["balance_proprioception", "rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "acl",
+      "ankle_lateral",
+      "mcl",
+      "meniscus"
+    ],
+    "topics": [
+      "balance_proprioception",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 94,
-    "filename": "gabbett_2016b_overuse_undertraining.pdf",
+    "filename": "94_gabbett_2016b_overuse_undertraining.pdf",
     "title": "Debunking the Myths About Training Load, Injury and Performance",
-    "authors": ["Gabbett TJ"],
+    "authors": [
+      "Gabbett TJ"
+    ],
     "year": 2016,
-    "conditions": [],
-    "topics": ["load_management", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "load_management",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 95,
-    "filename": "soligard_2016_ioc_load_consensus.pdf",
+    "filename": "95_soligard_2016_ioc_load_consensus.pdf",
     "title": "How Much Is Too Much? (Part 1) International Olympic Committee Consensus Statement on Load in Sport and Risk of Injury",
     "authors": [
       "Soligard T",
@@ -1359,111 +2269,245 @@
       "Hagglund M"
     ],
     "year": 2016,
-    "conditions": [],
-    "topics": ["load_management", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "load_management",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "consensus_statement",
     "priority": "medium"
   },
   {
     "paper_id": 96,
-    "filename": "drew_2016_training_load_injury.pdf",
+    "filename": "96_drew_2016_training_load_injury.pdf",
     "title": "A Systematic Review of the Relationship Between Training Load and Injury in Athletes",
-    "authors": ["Drew MK", "Finch CF"],
+    "authors": [
+      "Drew MK",
+      "Finch CF"
+    ],
     "year": 2016,
-    "conditions": [],
-    "topics": ["load_management"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "load_management"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
-    "paper_id": 97,
-    "filename": "greenhalgh_2006_red_flags_spine.pdf",
-    "title": "Red Flags: A Guide to Identifying Serious Pathology of the Spine",
-    "authors": ["Greenhalgh S", "Selfe J"],
-    "year": 2006,
-    "conditions": [],
-    "topics": ["red_flags", "movement_screening"],
-    "body_regions": ["spine"],
-    "content_type": "textbook",
-    "priority": "medium"
-  },
-  {
     "paper_id": 98,
-    "filename": "maselli_2022_red_flags_lumbar.pdf",
+    "filename": "98_maselli_2022_red_flags_lumbar.pdf",
     "title": "Red flags for the early detection of spinal infection in back pain patients",
-    "authors": ["Mohamed Yusuf", "Laura Finucane "],
+    "authors": [
+      "Mohamed Yusuf",
+      "Laura Finucane "
+    ],
     "year": 2022,
-    "conditions": [],
-    "topics": ["red_flags"],
-    "body_regions": ["spine"],
+    "conditions": [
+      "lbp_extension",
+      "lbp_flexion"
+    ],
+    "topics": [
+      "red_flags"
+    ],
+    "body_regions": [
+      "spine"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 99,
-    "filename": "ross_2017_red_flag_screening.pdf",
+    "filename": "99_ross_2017_red_flag_screening.pdf",
     "title": "Red Flag Screening for Low Back Pain",
-    "authors": ["Michael P Reiman2"],
+    "authors": [
+      "Michael P Reiman2"
+    ],
     "year": 2017,
-    "conditions": [],
-    "topics": ["red_flags", "movement_screening"],
-    "body_regions": ["general"],
+    "conditions": [
+      "lbp_extension",
+      "lbp_flexion"
+    ],
+    "topics": [
+      "red_flags",
+      "movement_screening"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 100,
-    "filename": "bleakley_2012_police.pdf",
+    "filename": "100_bleakley_2012_police.pdf",
     "title": "PRICE Needs Updating, Should We Call the POLICE?",
-    "authors": ["Bleakley CM", "Glasgow P", "MacAuley DC"],
+    "authors": [
+      "Bleakley CM",
+      "Glasgow P",
+      "MacAuley DC"
+    ],
     "year": 2012,
-    "conditions": [],
-    "topics": ["rehab_protocol", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "hip_adductor",
+      "mcl",
+      "meniscus",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 101,
-    "filename": "glasgow_2015_optimal_loading.pdf",
+    "filename": "101_glasgow_2015_optimal_loading.pdf",
     "title": "Optimal Loading: Key Variables and Mechanisms",
-    "authors": ["Glasgow P", "Phillips N", "Bleakley C"],
+    "authors": [
+      "Glasgow P",
+      "Phillips N",
+      "Bleakley C"
+    ],
     "year": 2015,
-    "conditions": [],
-    "topics": ["rehab_protocol", "load_management", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "load_management",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 102,
-    "filename": "khan_2009_mechanotherapy.pdf",
+    "filename": "102_khan_2009_mechanotherapy.pdf",
     "title": "Mechanotherapy: How Physical Therapists' Prescription of Exercise Promotes Tissue Repair",
-    "authors": ["Khan KM", "Scott A"],
+    "authors": [
+      "Khan KM",
+      "Scott A"
+    ],
     "year": 2009,
-    "conditions": [],
-    "topics": ["rehab_protocol", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 103,
-    "filename": "harries_2015_linear_undulating.pdf",
+    "filename": "103_harries_2015_linear_undulating.pdf",
     "title": "A Systematic Review of the Effects of Linear and Undulating Periodized Resistance Training Programs on Muscular Strength",
-    "authors": ["Harries SK", "Lubans DR", "Callister R"],
+    "authors": [
+      "Harries SK",
+      "Lubans DR",
+      "Callister R"
+    ],
     "year": 2015,
     "conditions": [],
-    "topics": ["periodisation", "strength_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "periodisation",
+      "strength_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 104,
-    "filename": "painter_2012_block_vs_dup.pdf",
+    "filename": "104_painter_2012_block_vs_dup.pdf",
     "title": "Strength Gains: Block Versus Daily Undulating Periodization Weight Training Among Track and Field Athletes",
     "authors": [
       "Painter KB",
@@ -1478,50 +2522,81 @@
     ],
     "year": 2012,
     "conditions": [],
-    "topics": ["periodisation", "strength_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "periodisation",
+      "strength_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 105,
-    "filename": "deweese_2015_block_periodisation.pdf",
+    "filename": "105_deweese_2015_block_periodisation.pdf",
     "title": "The Use of Block Periodization in Track and Field",
-    "authors": ["DeWeese BH", "Hornsby G", "Stone M", "Stone MH"],
+    "authors": [
+      "DeWeese BH",
+      "Hornsby G",
+      "Stone M",
+      "Stone MH"
+    ],
     "year": 2015,
     "conditions": [],
-    "topics": ["periodisation", "speed_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "periodisation",
+      "speed_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 106,
-    "filename": "turner_2011_periodization_review.pdf",
+    "filename": "106_turner_2011_periodization_review.pdf",
     "title": "The Science and Practice of Periodization: A Brief Review",
-    "authors": ["Turner A"],
+    "authors": [
+      "Turner A"
+    ],
     "year": 2011,
     "conditions": [],
-    "topics": ["periodisation"],
-    "body_regions": ["general"],
+    "topics": [
+      "periodisation"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "low"
   },
   {
     "paper_id": 107,
-    "filename": "jimenez_reyes_2017_fv_jumping.pdf",
+    "filename": "107_jimenez_reyes_2017_fv_jumping.pdf",
     "title": "Effectiveness of an Individualized Training Based on Force-Velocity Profiling During Jumping",
-    "authors": ["Jimenez-Reyes P", "Samozino P", "Brughelli M", "Morin JB"],
+    "authors": [
+      "Jimenez-Reyes P",
+      "Samozino P",
+      "Brughelli M",
+      "Morin JB"
+    ],
     "year": 2017,
     "conditions": [],
-    "topics": ["power_programming", "plyometrics"],
-    "body_regions": ["general"],
+    "topics": [
+      "power_programming",
+      "plyometrics"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 108,
-    "filename": "samozino_2016_sprint_fv.pdf",
+    "filename": "108_samozino_2016_sprint_fv.pdf",
     "title": "A Simple Method for Measuring Power, Force, Velocity Properties, and Mechanical Effectiveness in Sprint Running",
     "authors": [
       "Samozino P",
@@ -1534,50 +2609,110 @@
     ],
     "year": 2016,
     "conditions": [],
-    "topics": ["speed_programming", "sprint_mechanics"],
-    "body_regions": ["general"],
+    "topics": [
+      "speed_programming",
+      "sprint_mechanics"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 109,
-    "filename": "impellizzeri_2018_training_load_15years.pdf",
+    "filename": "109_impellizzeri_2018_training_load_15years.pdf",
     "title": "The Relationships Between Internal and External Measures of Training Load and Intensity in Team Sports: A Meta-Analysis",
-    "authors": ["Shaun McLaren", "Tom W Macpherson"],
+    "authors": [
+      "Shaun McLaren",
+      "Tom W Macpherson"
+    ],
     "year": 2018,
-    "conditions": [],
-    "topics": ["load_management"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "load_management"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 110,
-    "filename": "halson_2014_training_load_fatigue.pdf",
+    "filename": "110_halson_2014_training_load_fatigue.pdf",
     "title": "Monitoring Training Load to Understand Fatigue in Athletes",
-    "authors": ["Halson SL"],
+    "authors": [
+      "Halson SL"
+    ],
     "year": 2014,
-    "conditions": [],
-    "topics": ["load_management"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "load_management"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 111,
-    "filename": "schoenfeld_2016_rt_frequency.pdf",
+    "filename": "111_schoenfeld_2016_rt_frequency.pdf",
     "title": "Effects of Resistance Training Frequency on Measures of Muscle Hypertrophy: A Systematic Review and Meta-Analysis",
-    "authors": ["Schoenfeld BJ", "Ogborn D", "Krieger JW"],
+    "authors": [
+      "Schoenfeld BJ",
+      "Ogborn D",
+      "Krieger JW"
+    ],
     "year": 2016,
     "conditions": [],
-    "topics": ["hypertrophy_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "hypertrophy_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 112,
-    "filename": "schoenfeld_2018_rt_volume_guidelines.pdf",
+    "filename": "112_schoenfeld_2018_rt_volume_guidelines.pdf",
     "title": "Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men",
     "authors": [
       "Schoenfeld BJ",
@@ -1590,14 +2725,18 @@
     ],
     "year": 2018,
     "conditions": [],
-    "topics": ["hypertrophy_programming"],
-    "body_regions": ["general"],
+    "topics": [
+      "hypertrophy_programming"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 113,
-    "filename": "contreras_2016_squat_emg.pdf",
+    "filename": "113_contreras_2016_squat_emg.pdf",
     "title": "A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis EMG Activity in the Back Squat and Barbell Hip Thrust",
     "authors": [
       "Contreras B",
@@ -1607,116 +2746,254 @@
       "Cronin J"
     ],
     "year": 2016,
-    "conditions": [],
-    "topics": ["exercise_selection"],
-    "body_regions": ["general", "hip", "knee"],
+    "conditions": [
+      "acl",
+      "anterior_knee",
+      "hip_adductor",
+      "hip_labral",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl"
+    ],
+    "topics": [
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "general",
+      "hip",
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "low"
   },
   {
     "paper_id": 114,
-    "filename": "krings_2019_back_squat_belt_squat.pdf",
+    "filename": "114_krings_2019_back_squat_belt_squat.pdf",
     "title": "Activity of Trunk and Lower Extremity Musculature: Comparison Between Parallel Back Squats and Belt Squats",
-    "authors": ["Michael A. Lawrence", "Kristine Sweezey"],
+    "authors": [
+      "Michael A. Lawrence",
+      "Kristine Sweezey"
+    ],
     "year": 2019,
-    "conditions": [],
-    "topics": ["exercise_selection"],
-    "body_regions": ["general", "knee"],
+    "conditions": [
+      "acl",
+      "anterior_knee",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl"
+    ],
+    "topics": [
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "general",
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "low"
   },
   {
     "paper_id": 115,
-    "filename": "behm_2016_stretching_performance_review.pdf",
+    "filename": "115_behm_2016_stretching_performance_review.pdf",
     "title": "Acute effects of muscle stretching on physical performance, range of motion, and injury incidence in healthy active individuals: a systematic review",
-    "authors": ["Behm DG", "Blazevich AJ", "Kay AD", "McHugh M"],
+    "authors": [
+      "Behm DG",
+      "Blazevich AJ",
+      "Kay AD",
+      "McHugh M"
+    ],
     "year": 2016,
-    "conditions": [],
-    "topics": ["mobility", "flexibility", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "ankle_lateral",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "mobility",
+      "flexibility",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 116,
-    "filename": "konrad_2023_hip_flexor_stretching.pdf",
+    "filename": "116_konrad_2023_hip_flexor_stretching.pdf",
     "title": "The Influence of Stretching the Hip Flexor Muscles on Performance Parameters: A Systematic Review with Meta-Analysis",
-    "authors": ["Konrad A", "Nakamura M", "Tilp M", "Donti O", "Behm DG"],
+    "authors": [
+      "Konrad A",
+      "Nakamura M",
+      "Tilp M",
+      "Donti O",
+      "Behm DG"
+    ],
     "year": 2023,
-    "conditions": [],
-    "topics": ["mobility", "flexibility", "exercise_selection"],
-    "body_regions": ["hip"],
+    "conditions": [
+      "anterior_knee",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion"
+    ],
+    "topics": [
+      "mobility",
+      "flexibility",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "hip"
+    ],
     "content_type": "systematic_review",
     "priority": "high"
   },
   {
     "paper_id": 117,
-    "filename": "medeiros_2016_static_stretching_hamstring.pdf",
+    "filename": "117_medeiros_2016_static_stretching_hamstring.pdf",
     "title": "Influence of static stretching on hamstring flexibility in healthy young adults",
-    "authors": ["Peng cai"],
+    "authors": [
+      "Peng cai"
+    ],
     "year": 2023,
-    "conditions": [],
-    "topics": ["mobility", "flexibility"],
-    "body_regions": ["general"],
+    "conditions": [
+      "acl",
+      "hip_adductor",
+      "lbp_flexion",
+      "pcl"
+    ],
+    "topics": [
+      "mobility",
+      "flexibility"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 118,
-    "filename": "weppler_2023_muscle_extensibility.pdf",
+    "filename": "118_weppler_2023_muscle_extensibility.pdf",
     "title": "Dynamic and static stretching on hamstring flexibility and stiffness: A systematic review and meta-analysis",
-    "authors": ["Peng cai"],
+    "authors": [
+      "Peng cai"
+    ],
     "year": 2023,
-    "conditions": [],
+    "conditions": [
+      "ankle_lateral",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "shoulder_cuff"
+    ],
     "topics": [
       "mobility",
       "flexibility",
       "pain_monitoring",
       "general_principles"
     ],
-    "body_regions": ["general"],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 119,
-    "filename": "thomas_2016_stretching_typology_duration.pdf",
+    "filename": "119_thomas_2016_stretching_typology_duration.pdf",
     "title": "Effects of Different Durations of Static Stretching on Flexibility, Jumping, Speed and Agility Performance",
-    "authors": ["Thomas E", "Bianco A", "Paoli A", "Palma A"],
+    "authors": [
+      "Thomas E",
+      "Bianco A",
+      "Paoli A",
+      "Palma A"
+    ],
     "year": 2016,
-    "conditions": [],
-    "topics": ["mobility", "flexibility"],
-    "body_regions": ["general"],
+    "conditions": [
+      "ankle_lateral",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "mobility",
+      "flexibility"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 120,
-    "filename": "behm_2011_static_dynamic_stretching.pdf",
+    "filename": "120_behm_2011_static_dynamic_stretching.pdf",
     "title": "A review of the acute effects of static and dynamic stretching on performance",
-    "authors": ["Behm DG", "Chaouachi A"],
+    "authors": [
+      "Behm DG",
+      "Chaouachi A"
+    ],
     "year": 2011,
-    "conditions": [],
-    "topics": ["mobility", "flexibility", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "ankle_lateral",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "mobility",
+      "flexibility",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 121,
-    "filename": "reiman_2013_hip_mobility_self_mobilization.pdf",
+    "filename": "121_reiman_2013_hip_mobility_self_mobilization.pdf",
     "title": "Restricted Hip Mobility: Clinical Suggestions for Self-Mobilization and Muscle Re-Education",
-    "authors": ["Reiman MP", "Matheson JW"],
+    "authors": [
+      "Reiman MP",
+      "Matheson JW"
+    ],
     "year": 2013,
-    "conditions": [],
-    "topics": ["mobility", "rehab_protocol", "exercise_selection"],
-    "body_regions": ["hip"],
+    "conditions": [
+      "anterior_knee",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_flexion"
+    ],
+    "topics": [
+      "mobility",
+      "rehab_protocol",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "hip"
+    ],
     "content_type": "clinical_guideline",
     "priority": "high"
   },
   {
     "paper_id": 122,
-    "filename": "bennell_2010_hip_strengthening_knee_oa.pdf",
+    "filename": "122_bennell_2010_hip_strengthening_knee_oa.pdf",
     "title": "Hip strengthening reduces symptoms but not knee load in people with medial knee osteoarthritis",
     "authors": [
       "Bennell KL",
@@ -1729,39 +3006,74 @@
       "Hinman RS"
     ],
     "year": 2010,
-    "conditions": ["anterior_knee"],
-    "topics": ["exercise_selection", "rehab_protocol"],
-    "body_regions": ["hip", "knee"],
+    "conditions": [
+      "anterior_knee"
+    ],
+    "topics": [
+      "exercise_selection",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "hip",
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 123,
-    "filename": "heneghan_2018_thoracic_mobility_upper_quadrant.pdf",
+    "filename": "123_heneghan_2018_thoracic_mobility_upper_quadrant.pdf",
     "title": "Thoracic spine mobility and its association with upper quadrant pain and function",
-    "authors": ["Heneghan NR", "Baker G", "Thomas K", "Falla D", "Rushton A"],
+    "authors": [
+      "Heneghan NR",
+      "Baker G",
+      "Thomas K",
+      "Falla D",
+      "Rushton A"
+    ],
     "year": 2018,
-    "conditions": ["shoulder_cuff"],
-    "topics": ["mobility", "rehab_protocol"],
-    "body_regions": ["spine", "shoulder"],
+    "conditions": [
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "mobility",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "spine",
+      "shoulder"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 124,
-    "filename": "griegel_morris_2019_postural_abnormalities_pain.pdf",
+    "filename": "124_griegel_morris_2019_postural_abnormalities_pain.pdf",
     "title": "Thoracic Posture and Mobility in Mechanical Neck Pain Population: A Review of the Literature",
-    "authors": ["Shriya Joshi ", " Ganesh Balthillaya"],
+    "authors": [
+      "Shriya Joshi ",
+      " Ganesh Balthillaya"
+    ],
     "year": 2019,
-    "conditions": [],
-    "topics": ["mobility", "movement_screening"],
-    "body_regions": ["spine", "shoulder"],
+    "conditions": [
+      "lbp_extension",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "mobility",
+      "movement_screening"
+    ],
+    "body_regions": [
+      "spine",
+      "shoulder"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 125,
-    "filename": "lima_2018_ankle_dorsiflexion_squat_injury.pdf",
+    "filename": "125_lima_2018_ankle_dorsiflexion_squat_injury.pdf",
     "title": "Influence of Ankle Dorsiflexion Range of Motion on Squat Depth, Knee Valgus, and Lower Limb Injury Risk",
     "authors": [
       "Lima YL",
@@ -1772,15 +3084,24 @@
       "Almeida GP"
     ],
     "year": 2018,
-    "conditions": ["ankle_lateral"],
-    "topics": ["mobility", "exercise_selection", "movement_screening"],
-    "body_regions": ["ankle", "knee"],
+    "conditions": [
+      "ankle_lateral"
+    ],
+    "topics": [
+      "mobility",
+      "exercise_selection",
+      "movement_screening"
+    ],
+    "body_regions": [
+      "ankle",
+      "knee"
+    ],
     "content_type": "systematic_review",
     "priority": "high"
   },
   {
     "paper_id": 126,
-    "filename": "radford_2006_ankle_stretching_dorsiflexion.pdf",
+    "filename": "126_radford_2006_ankle_stretching_dorsiflexion.pdf",
     "title": "Does stretching increase ankle dorsiflexion range of motion? A systematic review",
     "authors": [
       "Radford JA",
@@ -1790,55 +3111,128 @@
       "Cook C"
     ],
     "year": 2006,
-    "conditions": ["ankle_lateral"],
-    "topics": ["mobility", "flexibility", "rehab_protocol"],
-    "body_regions": ["ankle"],
+    "conditions": [
+      "ankle_lateral"
+    ],
+    "topics": [
+      "mobility",
+      "flexibility",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "ankle"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 127,
-    "filename": "cook_2006_fms_screening.pdf",
+    "filename": "127_cook_2006_fms_screening.pdf",
     "title": "Pre-participation screening: the use of fundamental movements as an assessment of function",
-    "authors": ["Cook G", "Burton L", "Hoogenboom BJ"],
+    "authors": [
+      "Cook G",
+      "Burton L",
+      "Hoogenboom BJ"
+    ],
     "year": 2006,
-    "conditions": [],
-    "topics": ["movement_screening", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "movement_screening",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 128,
-    "filename": "kraus_2014_resistance_balance_training.pdf",
+    "filename": "128_kraus_2014_resistance_balance_training.pdf",
     "title": "Effects of Combined Resistance and Balance Training on Physical Performance in Older Adults",
-    "authors": ["Kraus K", "Schutz E", "Taylor WR", "Doyscher R"],
+    "authors": [
+      "Kraus K",
+      "Schutz E",
+      "Taylor WR",
+      "Doyscher R"
+    ],
     "year": 2014,
-    "conditions": [],
+    "conditions": [
+      "acl",
+      "ankle_lateral",
+      "mcl",
+      "meniscus",
+      "pcl"
+    ],
     "topics": [
       "balance_proprioception",
       "strength_programming",
       "general_principles"
     ],
-    "body_regions": ["general"],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 129,
-    "filename": "toigo_2006_resistance_exercise_determinants.pdf",
+    "filename": "129_toigo_2006_resistance_exercise_determinants.pdf",
     "title": "New fundamental resistance exercise determinants of molecular and cellular muscle adaptations",
-    "authors": ["Toigo M", "Boutellier U"],
+    "authors": [
+      "Toigo M",
+      "Boutellier U"
+    ],
     "year": 2006,
-    "conditions": [],
-    "topics": ["rehab_protocol", "strength_programming", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "strength_programming",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 130,
-    "filename": "nijs_2014_chronic_pain_beliefs.pdf",
+    "filename": "130_nijs_2014_chronic_pain_beliefs.pdf",
     "title": "Thinking beyond muscles and joints: therapists' and patients' attitudes and beliefs regarding chronic musculoskeletal pain",
     "authors": [
       "Nijs J",
@@ -1848,27 +3242,60 @@
       "Smeets R"
     ],
     "year": 2014,
-    "conditions": [],
-    "topics": ["pain_monitoring", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "lbp_extension",
+      "lbp_flexion",
+      "patellar_tendon",
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "pain_monitoring",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 131,
-    "filename": "louw_2016_pain_neuroscience_education.pdf",
+    "filename": "131_louw_2016_pain_neuroscience_education.pdf",
     "title": "The efficacy of pain neuroscience education on musculoskeletal pain: A systematic review",
-    "authors": ["Louw A", "Zimney K", "Puentedura EJ", "Diener I"],
+    "authors": [
+      "Louw A",
+      "Zimney K",
+      "Puentedura EJ",
+      "Diener I"
+    ],
     "year": 2016,
-    "conditions": [],
-    "topics": ["pain_monitoring", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "lbp_extension",
+      "lbp_flexion",
+      "patellar_tendon",
+      "shoulder_cuff"
+    ],
+    "topics": [
+      "pain_monitoring",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   },
   {
     "paper_id": 132,
-    "filename": "buckley_2015_sedentary_office.pdf",
+    "filename": "132_buckley_2015_sedentary_office.pdf",
     "title": "The sedentary office: an expert statement on the growing case for change towards better health and productivity",
     "authors": [
       "Buckley JP",
@@ -1881,39 +3308,69 @@
       "Dunstan DW"
     ],
     "year": 2015,
-    "conditions": [],
-    "topics": ["general_principles", "mobility"],
-    "body_regions": ["general"],
+    "conditions": [
+      "lbp_extension",
+      "lbp_flexion"
+    ],
+    "topics": [
+      "general_principles",
+      "mobility"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "consensus_statement",
     "priority": "high"
   },
   {
     "paper_id": 133,
-    "filename": "kett_2020_sedentary_back_stiffness.pdf",
+    "filename": "133_kett_2020_sedentary_back_stiffness.pdf",
     "title": "Sedentary behaviour at work increases muscle stiffness of the back",
-    "authors": ["Alexander R. Kett"],
+    "authors": [
+      "Alexander R. Kett"
+    ],
     "year": 2020,
-    "conditions": ["lbp_flexion", "lbp_extension"],
-    "topics": ["mobility", "general_principles"],
-    "body_regions": ["spine"],
+    "conditions": [
+      "lbp_flexion",
+      "lbp_extension"
+    ],
+    "topics": [
+      "mobility",
+      "general_principles"
+    ],
+    "body_regions": [
+      "spine"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 134,
-    "filename": "kang_2019_thoracic_extension_exercise.pdf",
+    "filename": "134_kang_2019_thoracic_extension_exercise.pdf",
     "title": "Effects of thoracic posture correction exercises on scapular position",
-    "authors": ["won-gyu yoo"],
+    "authors": [
+      "won-gyu yoo"
+    ],
     "year": 2019,
-    "conditions": [],
-    "topics": ["mobility", "exercise_selection"],
-    "body_regions": ["spine", "shoulder"],
+    "conditions": [
+      "lbp_extension",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "mobility",
+      "exercise_selection"
+    ],
+    "body_regions": [
+      "spine",
+      "shoulder"
+    ],
     "content_type": "rct",
     "priority": "medium"
   },
   {
     "paper_id": 135,
-    "filename": "meier_2018_meniscus_repair_weight_bearing.pdf",
+    "filename": "135_meier_2018_meniscus_repair_weight_bearing.pdf",
     "title": "Rehabilitation following meniscal repair: a systematic review",
     "authors": [
       "Meier W",
@@ -1923,39 +3380,67 @@
       "Della Villa F"
     ],
     "year": 2018,
-    "conditions": ["meniscus"],
-    "topics": ["rehab_protocol"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "meniscus"
+    ],
+    "topics": [
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "rct",
     "priority": "high"
   },
   {
     "paper_id": 136,
-    "filename": "papalia_2020_meniscus_repair_vs_meniscectomy.pdf",
+    "filename": "136_papalia_2020_meniscus_repair_vs_meniscectomy.pdf",
     "title": "Meniscectomy as a risk factor for knee osteoarthritis: A systematic review",
-    "authors": ["Papalia R", "Del Buono A", "Osti L", "Denaro V", "Maffulli N"],
+    "authors": [
+      "Papalia R",
+      "Del Buono A",
+      "Osti L",
+      "Denaro V",
+      "Maffulli N"
+    ],
     "year": 2020,
-    "conditions": ["meniscus"],
-    "topics": ["rehab_protocol", "return_to_sport"],
-    "body_regions": ["knee"],
+    "conditions": [
+      "meniscus"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "knee"
+    ],
     "content_type": "narrative_review",
     "priority": "medium"
   },
   {
     "paper_id": 137,
-    "filename": "warth_2014_bankart_repair_rts.pdf",
+    "filename": "137_warth_2014_bankart_repair_rts.pdf",
     "title": "Return to Play After Open Bankart Repair",
-    "authors": ["Geoffrey P Stone "],
+    "authors": [
+      "Geoffrey P Stone "
+    ],
     "year": 2014,
-    "conditions": ["shoulder_instability"],
-    "topics": ["rehab_protocol", "return_to_sport"],
-    "body_regions": ["shoulder"],
+    "conditions": [
+      "shoulder_instability"
+    ],
+    "topics": [
+      "rehab_protocol",
+      "return_to_sport"
+    ],
+    "body_regions": [
+      "shoulder"
+    ],
     "content_type": "narrative_review",
     "priority": "high"
   },
   {
     "paper_id": 138,
-    "filename": "fragala_2019_nsca_resistance_older_adults.pdf",
+    "filename": "138_fragala_2019_nsca_resistance_older_adults.pdf",
     "title": "Resistance Training for Older Adults: Position Statement From the NSCA",
     "authors": [
       "Fragala MS",
@@ -1967,21 +3452,70 @@
       "Ryan ED"
     ],
     "year": 2019,
-    "conditions": [],
-    "topics": ["strength_programming", "general_principles", "rehab_protocol"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "strength_programming",
+      "general_principles",
+      "rehab_protocol"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "clinical_guideline",
     "priority": "high"
   },
   {
     "paper_id": 139,
-    "filename": "liu_2009_progressive_resistance_older_adults.pdf",
+    "filename": "139_liu_2009_progressive_resistance_older_adults.pdf",
     "title": "Progressive resistance strength training for improving physical function in older adults",
-    "authors": ["Liu CJ", "Latham NK"],
+    "authors": [
+      "Liu CJ",
+      "Latham NK"
+    ],
     "year": 2009,
-    "conditions": [],
-    "topics": ["strength_programming", "rehab_protocol", "general_principles"],
-    "body_regions": ["general"],
+    "conditions": [
+      "achilles",
+      "acl",
+      "ankle_lateral",
+      "anterior_knee",
+      "elbow_lateral",
+      "general_tendinopathy",
+      "hip_adductor",
+      "hip_labral",
+      "lbp_extension",
+      "lbp_flexion",
+      "mcl",
+      "meniscus",
+      "patellar_tendon",
+      "pcl",
+      "shoulder_cuff",
+      "shoulder_instability"
+    ],
+    "topics": [
+      "strength_programming",
+      "rehab_protocol",
+      "general_principles"
+    ],
+    "body_regions": [
+      "general"
+    ],
     "content_type": "systematic_review",
     "priority": "medium"
   }
